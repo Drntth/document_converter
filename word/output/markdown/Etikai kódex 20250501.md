@@ -1,0 +1,271 @@
+#### ![IMAGE](images/Etikai kódex 20250501/image\_1.jpeg)
+
+ETIKAI KÓDEXE
+
+(Jelen szabályzatot a Szenátus a 27/2025. (IV.30.) sz. határozatával elfogadta)
+
+2025.
+
+|    | Készítette                                                                                                                           | Elfogadta és Jóváhagyta                                                           |
+|----|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|    | Dr. Novák István delegált általános rektorhelyettes, az Egyetem Etikai Bizottságának Elnöke és  Rákosiné dr. Jakab Éva kabinetvezető | EKKE Szenátus a 27/2025. (IV.30.) sz. határozatával Jóváhagyta Egri Főegyházmegye |
+
+I.  AZ ETIKAI KÓDEX (Etikai Kódex) CÉLJA
+
+Az Etikai Kódex (kódex)célja olyan erkölcsi magatartási normák meghatározása, amelyek követésével az Eszterházy Károly Katolikus Egyetem (Egyetem) alkalmazottai, hallgatói, valamint az egyetemi feladatokat nem munkaviszony alapján ellátó személyek hozzájárulnak az emberi kapcsolatok erősítéséhez, a szakmai munkát segítő jó közérzet megteremtéséhez, az Egyetem (Eszterházy Károly Katolikus Egyetem) hagyományainak, jó hírnevének, szakmai és intézményi integritásának megőrzéséhez, ápolásához.
+
+II. AZ ETIKAI KÓDEX (Etikai Kódex) HATÁLYA
+
+(1) A kódex (Etikai Kódex) hatálya kiterjed az Egyetem (Eszterházy Károly Katolikus Egyetem) valamennyi polgárára (egyetemi polgár), így az Egyetem (Eszterházy Károly Katolikus Egyetem) oktató, tudományos kutató és nem oktató, egyéb munkavállalóira, az oktatási és egyéb feladatokat nem munkaviszony alapján ellátó személyekre, és valamennyi hallgatóra.
+
+(2) A kódex (Etikai Kódex) hatálya kiterjed az egyetemi polgárok egyetemi tevékenységére, továbbá azokra az Egyetemen kívüli magatartásokra, melyek az egyetemi léttel összefüggnek és kihatnak az Egyetem (Eszterházy Károly Katolikus Egyetem) társadalmi megítélésére, hírnevére.
+
+(3) A kódex (Etikai Kódex) hatálya kiterjed azon cselekményekre, magatartásokra is, amelyekhez jogszabály vagy egyetemi szabályzat hátrányos jogkövetkezményt fűz, azonban önmagukban is a jelen kódexben meghatározott etikai vétséget valósítanak meg.
+
+(4) Az Egyetem (Eszterházy Károly Katolikus Egyetem) vállalja, hogy polgárai számára minden esetben erkölcsi támogatást és védelmet nyújt a kódexben foglalt jogok gyakorlása és kötelezettségek teljesítése során.
+
+(5) Az egyetemi polgárok tevékenységével összefüggő, tisztázást igénylő erkölcsi konfliktus esetén bárki állásfoglalásért fordulhat az Egyetem (Eszterházy Károly Katolikus Egyetem) Etikai Bizottságához. Az Etikai Bizottság köteles harminc napon belül írásban véleményt nyilvánítani, és állásfoglalását (az érintett felek tekintetében anonimizált formában) az érintettel és (elektronikusan) az egyetemi polgárokkal megismertetni.
+
+III. ÁLTALÁNOS ERKÖLCSI ELVÁRÁSOK
+
+(1) A jogszabályok, valamint az Egyetem (Eszterházy Károly Katolikus Egyetem) belső szabályzataiban foglalt előírások betartása az egyetemi polgárok erkölcsi kötelessége. A kódex (Etikai Kódex) elsősorban olyan területeken fogalmaz meg elvárásokat, amelyről jogszabályok és az Egyetem (Eszterházy Károly Katolikus Egyetem) belső szabályzatai nem rendelkeznek, vagy amely esetekben ezen jogi normák erkölcsi követelményekre hivatkoznak.
+
+(2) A kódex (Etikai Kódex) az Egyetem (Eszterházy Károly Katolikus Egyetem) polgáraira vonatkozó általános emberi és önkéntes megállapodáson alapuló konkrét szervezeti értékeket rögzítő normákat tartalmaz. A kódex (Etikai Kódex) által érintett kérdésekben etikusnak az a magatartás tekinthető, amely a kódexben megfogalmazott elvárásokkal összhangban áll. Etikai vétséget követ el, aki – szándékosan vagy gondatlanul – megszegi, vagy figyelmen kívül hagyja a kódexben megfogalmazott elvárásokat.
+
+(3) Az Egyetem (Eszterházy Károly Katolikus Egyetem) az Alapító Okiratban nevesített alapfeladatainak ellátása során tevékenységével elősegíti a kereszténységen alapuló hagyományos magyar és európai kultúra és műveltség fejlődését, a családi és közösségi értékek megmaradását azáltal, hogy felsőfokú végzettségű szakembereket képez, és tovább képez. Egyetemünk életében kiemelten fontos, hogy az intézmény működésével segítse az Egri Főegyházmegye és a Magyar Katolikus Egyház oktatási, nevelési, hitéleti feladatainak ellátását.
+
+(4) Az Egyetem (Eszterházy Károly Katolikus Egyetem) az oktatói és egyéb munkakörben foglalkoztatott munkavállalói számára is biztosítja a keresztény értékrend, a keresztény etika megismerését. Ennek céljából évente több alkalommal különböző programokat szervez, amelyen a Katolikus Egyház hit- és erkölcsbeli tanítását adja át ismeretterjesztő és tudományos módszerekkel.
+
+5) Az Egyetem (Eszterházy Károly Katolikus Egyetem) nyitott nem csak a katolikus vallásúak, hanem más vallású, illetve nem hívő egyetemi polgárok számára is, amennyiben tiszteletben tartják az intézmény katolikus jellegét. Ennek megfelelően az Egyetem (Eszterházy Károly Katolikus Egyetem) polgárai megnyilatkozásaikban, életmódjukban, oktatási, kutatási feladataik és tanulmányi munkájuk során kötelesek tiszteletben tartani a Katolikus Egyház tanítását, ugyanakkor közéleti, tudományos és oktatási kérdésekben mindenkinek joga van a véleménynyilvánítás szabadságához, az oktatás és kutatás szabadságához. Az Egyetem (Eszterházy Károly Katolikus Egyetem) továbbá elkötelezett az egyenlő bánásmód követelményének betartása, a bárminemű diszkrimináció tilalma iránt.
+
+(6) Az Egyetemen tanuló és oktató külföldi állampolgároktól elvárható, hogy – saját kultúrájuk megőrzése mellett – alkalmazkodjanak a Magyarországon, és az Egyetemen általánosan elfogadott viselkedési normákhoz, és – legalább a tanulmányok és az egyetemi közösségbe való beilleszkedéshez szükséges mértékig – törekedjenek szokásaink, hagyományaink megismerésére, és elfogadására.
+
+(7) Az Egyetem (Eszterházy Károly Katolikus Egyetem) minden polgárát arra kötelezi az alapvető emberi norma és a keresztény tanítás, hogy erőteljesen lépjen fel a kiskorúakat, fiatal felnőtteket érintő bármely abúzus ellen, továbbá a valamilyen szempontból sérülékeny társadalmi csoportokkal szemben elkövetett abúzust is elítéli. Minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) köteles megismerni és rendelkezéseit maradéktalanul betartani az Egri Főegyházmegye 2022. szeptember 1. hatállyal kiadott Gyermek- és Ifjúságvédelmi Szabályzatának.
+
+(8) Az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) személyiségi jogait úgy gyakorolja, hogy ezzel mások személyiségi jogait ne sértse.
+
+(9) Minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) kötelessége az Egyetem (Eszterházy Károly Katolikus Egyetem) – Jövőképben, Intézményfejlesztési Stratégiában, Alapító Okiratban, Szervezeti és Működési Szabályzatban meghatározott – feladatainak végrehajtásában a jogszabályokban és a belső egyetemi szabályozókban előírt módon, azok betartásával közreműködni, és szem előtt tartani, hogy az Egyetem (Eszterházy Károly Katolikus Egyetem) alapfeladata az oktatás és a tudományos kutatás-fejlesztés.
+
+(10) Az Egyetem (Eszterházy Károly Katolikus Egyetem) elvárja az egyetemi polgároktól, hogy döntéseik során az összeférhetetlenség szabályait érvényre juttassák, különös tekintettel a (párt)politikai tevékenységre, rokoni és gazdasági kapcsolatokra, valamint a jogviszonyra vonatkozó jogszabályban előírt összeférhetetlenségi szabályokra; és azt, hogy az Egyetem (Eszterházy Károly Katolikus Egyetem) érdekeinek érvényesítésében elkötelezettek legyenek.
+
+(11) Az Egyetem (Eszterházy Károly Katolikus Egyetem) elítéli, ha bármelyik polgára visszaél vélt vagy valós hatalmi helyzetével.
+
+(12) Az egyetemi polgárok minden megengedett módon kötelesek egymást segíteni egyetemi feladataik elvégzésében. Az egyetemi polgároknak feladataik ellátása során a kölcsönös tisztelet és bizalom alapulvételével együttműködésre kell törekedniük, és egymás munkáját meg kell becsülniük. A szervezeti egységben a rendelkezésre álló lehetőségeknek megfelelően támogatni kell a munkatársak szakmai tevékenységét, munkavégzését, tudományos előmenetelét, képzését, továbbképzését. A beosztott munkatársakkal szemben világos követelményeket és elvárásokat kell megfogalmazni, munkájukat következetesen, pártatlanul és igazságosan kell értékelni.
+
+(13) Minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) a munkaköre, megbízatása körében kapott feladatot legjobb képességei szerint, gondos munkával, maradéktalanul végezze el, az Egyetem (Eszterházy Károly Katolikus Egyetem) vezetői, testületei által adott (eseti vagy tartós) megbízást, feladat elrendelést a legjobb tudása szerint határidőre teljesítse, azt – méltányolható és a megbízónál előzetesen igazolt indok nélkül – ne adja vissza.
+
+(14) Az Egyetemtől elvárható, hogy a többlet-teljesítményért arányos díjazást, egyéb juttatást vagy erkölcsi elismerést biztosítson. Az egyetemi polgárok javadalmazásának méltányosnak és igazságosnak kell lennie, összhangban kell állnia az egyéni erőfeszítésekkel, illetve a rendelkezésre álló lehetőségekkel.
+
+(15) Minden egyetemi polgárnak törekednie kell az intézmény jó hírnevének, tekintélyének megóvására, gyarapítására és tartózkodnia kell minden olyan megnyilvánulástól, amely sérti az Egyetem (Eszterházy Károly Katolikus Egyetem) érdekét. A közösségi identitás erősítése érdekében minden egyetemi polgárnak lojalitást és szolidaritást kell tanúsítania az Egyetem (Eszterházy Károly Katolikus Egyetem) minden polgára, testülete, és szervezete iránt. Az Egyetem (Eszterházy Károly Katolikus Egyetem) elvárja polgáraitól, hogy más felsőoktatási intézménnyel szemben is képviseljék egyetemünk méltányolható érdekeit.
+
+(16) Minden polgártól elvárható a társadalmilag elfogadott mértéknek megfelelő és mértéktartó életvitel. Kerülni kell az olyan helyzetet, amelyben az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) megbecsülése, személyes méltósága vagy az Egyetem (Eszterházy Károly Katolikus Egyetem) hírneve csorbulhat. E tényállás alapján etikai szankció csak szándékos magatartás esetén alkalmazható.
+
+(17) Az egyetemi polgárok kötelesek figyelemmel lenni arra, hogy – az Egyetemen belüli vagy azon kívüli – nyilvános megnyilatkozásaikban az Egyetemet, illetve annak szervezeti egységeit is képviselik. Ilyen alkalommal is kötelesek hitelt érdemlően, tárgyszerűen, a titoktartás alá eső információk esetén a titoktartási szabályokat és az Egyetem (Eszterházy Károly Katolikus Egyetem) érdekeit figyelembe véve nyilatkozni.
+
+(18) Az Egyetem (Eszterházy Károly Katolikus Egyetem) törekszik a nyitottságra, igyekszik jó kapcsolatot kiépíteni partnereivel, az Egyetemen kívüli közösségekkel, más intézményekkel. A szellemi javak és kulturális értékek hatékony terjesztésével igyekszik szolgálni a régiót és a helyi közösségeket. Az ebben való részvétel az egyetemi polgárok kötelezettsége.
+
+(19) Az Egyetem (Eszterházy Károly Katolikus Egyetem), valamint az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) által kiadott nyilatkozatnak, közleménynek, hirdetésnek hiteles, pontos információkat kell tartalmaznia. A tartalmilag pontatlan, hamis, az esetleges versenytársakat kedvezőtlen színben feltüntető információ, reklám, közlemény közzététele ellentétes az Egyetem (Eszterházy Károly Katolikus Egyetem) erkölcsi normáival. Az ilyen nyilatkozatot tevő, illetve a nyilatkozatot kiadó etikai vétséget követ el.
+
+(20) Az Egyetemet érintő konkrét ügyekről minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) csak saját hatáskörében, felelősségteljes módon nyilatkozhat, illetve így képviselheti véleményét. Súlyos etikai vétségnek minősül minden olyan nyilvános közlés vagy híresztelés, amely tudatosan valótlant állít, különösen, ha az Egyetemet vagy annak szervezeti egységét, polgárát etikailag kifogásolható magatartással vagy ilyen cselekmény elkövetésével gyanúsítja.
+
+(21) Jogosulatlan gazdasági, anyagi, vagy a szellemi életben hasznosítható előny megszerzése érdekében az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) részére bárki által felajánlott anyagi vagy más egyéb szolgáltatást vissza kell utasítani. Jogtalan előny felajánlása, nyújtása vagy elfogadása súlyosan elítélendő. Etikai követelmény elkerülni minden olyan helyzetet, amelyben jogtalan előny kérésének, illetve nyújtásának ténye vagy gyanúja felmerülhet.
+
+(22) Az Egyetem (Eszterházy Károly Katolikus Egyetem) tiltja az egyetemi infrastruktúrának magánérdekből, üzleti haszonszerzés céljából ingyenesen történő igénybevételét. Csak olyan feladat elvégzésére használható fel az Egyetem (Eszterházy Károly Katolikus Egyetem) infrastruktúrája, amelyről az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) közvetlen felettesének tudomása van, és a felhasználással egyetért.
+
+(23) Az Egyetem (Eszterházy Károly Katolikus Egyetem) tiltja az egyetemi infrastruktúrának pártpolitikai célra, világnézeti agitációra történő igénybevételét.
+
+(24) Az Egyetem (Eszterházy Károly Katolikus Egyetem) polgárai kötelesek titokként megőrizni mindazokat a személyiségi jogokat érintő információkat és adatokat, valamint üzleti titoknak minősülő adatokat, amelyek munkavégzésük során tudomásukra jutnak. Mind az egymás közötti, mind a külső megnyilatkozásaik során szem előtt kell tartaniuk a diszkréció, titoktartás illetve a GDPR vonatkozó követelményeit.
+
+(25) A személyes adatok, továbbá az üzleti titok védelmére vonatkozó szabályok szándékos megsértése, amennyiben a cselekmény súlyosabb jogsértést nem valósít meg, etikai vétségnek minősül. Kiemelt jelentősége van a hivatali adatok, információk védelmének. Az Egyetemre, és polgáraira vonatkozó adatokat a jogszabályok és a belső előírások, az Egyetem (Eszterházy Károly Katolikus Egyetem) Adatvédelmi és adatbiztonsági szabályzatában foglaltak szerint kell kezelni, a feljegyzéseket, adatbázisokat biztonságban kell tartani. A védett adatok megszerzése és továbbadása etikai vétség is. Az Egyetem (Eszterházy Károly Katolikus Egyetem) alkalmazottai az egyetemi polgárokról nyert, és egyébként nem nyilvános, illetve nem köztudott információkat (személyi juttatások, tanulmányi előmenetel, magánélet, politikai vagy vallási meggyőződés, stb.) kötelesek hivatali titokként őrizni.
+
+(26) Erkölcsileg kívánatos, hogy minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) lépjen fel az Egyetemen előforduló visszásságokkal szemben, azok megszüntetésére saját hatás- és feladatkörében tegyen lépéseket, még akkor is, ha ezzel személyes konfliktust vállal fel.
+
+(27) Az Egyetem (Eszterházy Károly Katolikus Egyetem) a tudományos, kutató tevékenység, egyéb munkavégzés során elvárja a tisztesség, megbízhatóság, objektivitás, nyitottság, elfogulatlanság, felelősség elve szerinti magatartás tanúsítását a tudományos tevékenység, kutatás, egyéb munkavégzés megtervezése, megvalósítása, megjelentetése során egyaránt.
+
+(28) Az Egyetem (Eszterházy Károly Katolikus Egyetem) tiltja mások ötleteinek, tudományos eredményeinek, szövegeinek forrásmegjelölés nélküli átvételét és sajátként való feltüntetését. A szellemi tulajdon védelmére vonatkozó szabályok szándékos megsértése, amennyiben a cselekmény súlyosabb jogsértést nem valósít meg, etikai vétségnek minősül. Az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) erkölcsi kötelessége, hogy becsülje meg, tartsa számon az Egyetem (Eszterházy Károly Katolikus Egyetem) szellemi termékeit, és tegyen meg mindent azok védelme érdekében.
+
+(29) Az Egyetem (Eszterházy Károly Katolikus Egyetem) elvárja közös tudományos és egyéb munka, kutatás esetén az egyéni teljesítmények világos megjelenítését; ugyanennek érvényesítését a hallgatói, illetve doktorandusz közreműködéssel folyó közös kutatásban.
+
+(30) Az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) kötelezettsége, hogy az Egyetem (Eszterházy Károly Katolikus Egyetem) eszközeivel, illetve forrásaival elért kutatási eredmények megjelentetésekor az Egyetem (Eszterházy Károly Katolikus Egyetem) nevét feltüntesse.
+
+(31) A kutatást végző egyetemi polgárok esetében az általános kutatásetikai szabályok – adatok védelme, plágium, közlési jog – betartása kötelező.
+
+(32) A közlemények, pályázatok bírálata esetén a bíráló köteles betartani az összeférhetetlenségi és titoktartási követelményeket.
+
+(33) Mind az Egyetem (Eszterházy Károly Katolikus Egyetem), mind annak polgárai számára etikai elvárás, hogy a polgárok életét, egészségét, testi épségét védje, oltalmazza.
+
+(34) Valamennyi egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) feladata az Egyetem (Eszterházy Károly Katolikus Egyetem) vagyontárgyainak rendeltetésszerű, megfelelő gondosságú használata és biztonságos megóvása. A nem megfelelően vagy nem biztonságosan működő eszközökre, berendezésekre fel kell hívni az illetékes munkatársak, szervezeti egységek figyelmét.
+
+(35) Az Egyetem (Eszterházy Károly Katolikus Egyetem) szervezeti egységei kötelesek alávetni magukat a rektor és a magasabb vezetők által kezdeményezett ellenőrzéseknek. Az Egyetem (Eszterházy Károly Katolikus Egyetem) polgárai nem akadályozhatják az egyetemi/kari szabályzatokban foglalt jogosítványok gyakorlását.
+
+(36) Az Egyetem (Eszterházy Károly Katolikus Egyetem) polgárai kötelesek alávetni magukat a fegyelmi, a kártérítési, az etikai bizottsági eljárásnak, ha annak jogszabályi vagy egyetemi/kari szabályzatban megállapított feltételei maradéktalanul fennállnak.
+
+IV.  A MAGASABB VEZETŐ (Egyetem magasabb vezető, vezető)/VEZETŐ (Egyetem magasabb vezető, vezető) BEOSZTÁSÚ, VALAMINT A DÖNTÉSHOZÓ TESTÜLETEKBEN RÉSZTVEVŐ ALKALMAZOTAKKAL SZEMBENI KÜLÖN ELVÁRÁSOK
+
+(1) Az Egyetem (Eszterházy Károly Katolikus Egyetem) magasabb vezető (Egyetem magasabb vezető, vezető), vezető (vezető) beosztású alkalmazottjától elvárható, hogy az általa irányított szervezeti egységet – a jogi, gazdasági és vezetői felelősségen túl – a kódexben meghatározott erkölcsi követelményeket is figyelembe véve vezesse. Ennek megfelelően:
+
+a)	figyeljen munkatársai szakmai és emberi problémáira, ezek meghallgatásakor legyen tapintatos, türelmes,
+
+b) 	döntéseit jól készítse elő, ennek során kérje ki, és – lehetőség szerint – vegye figyelembe beosztottjai véleményét,
+
+c) 	beosztottjai szakmai feladatainak elvégzéséhez a szükséges szabadságot és – jogszabályi keretek között – az önálló döntési kompetenciát biztosítsa,
+
+d)	a feladatok elvégzéséhez szükséges információk beszerzéséről és az érintettek rendelkezésére bocsátásáról gondoskodjon,
+
+e)	erkölcsi támogatást és ösztönzést adjon beosztottjai folyamatos önképzéséhez, továbbképzéséhez,
+
+f) az adminisztrációban, ügyvitelben résztvevő alkalmazottaktól pontos ügyintézést és udvarias magatartást követeljen meg,
+
+g) 	munkatársait ne tüntesse fel rossz színben, mások erre való törekvéseit utasítsa vissza.
+
+(2) A vezető (Egyetem magasabb vezető, vezető) kötelessége, hogy a hatáskörébe tartozó ügyekben döntéshozói pozíciójával ne éljen vissza a kedvezmények vagy juttatások odaítélésekor, kitüntetési javaslat tétele vagy odaítélése során, sem más jellegű döntéseiben. Ennek megfelelően:
+
+a)	etikai vétséget követ el az a vezető (Egyetem magasabb vezető, vezető), aki nem biztosítja beosztottjainak a teljes esélyegyenlőséget, a szükséges és lehetséges nyilvánosságot, különösen a pályázati, publikálási, tudományos minősítéssel összefüggő döntések során,
+
+b) 	etikai vétség az alá-fölérendeltségi viszony magánérdekű kihasználása a munkaviszonnyal nem összefüggő helyzetekben is,
+
+c)	a politikai, világnézeti befolyásolás vagy az erre való törekvés a függelmi viszonyra hivatkozva, vagy annak kihasználásával szintén etikai vétségnek minősül.
+
+(3) A vezető (Egyetem magasabb vezető, vezető) beosztású munkatárssal szemben etikai elvárás, hogy a szervezeti egységében felmerülő szakmai problémák belső megoldását segítse elő, és munkatársait is erre bíztassa.
+
+(4) A vezető (Egyetem magasabb vezető, vezető) döntéseinek meghozatalakor minden esetben vegye figyelembe az Egyetem (Eszterházy Károly Katolikus Egyetem) és az általa vezetett szervezeti egység érdekeit.
+
+(5) A vezető (Egyetem magasabb vezető, vezető) kiemelt erkölcsi kötelessége, hogy mind a személyes, mind az intézményre és szervezeti egységre vonatkozó adatszolgáltatásnál (például pályázatok, tudományos tevékenység, tudományos fokozat, publikációk) a valóságnak megfelelő tényeket, adatokat közöljön.
+
+(6) Az Egyetem (Eszterházy Károly Katolikus Egyetem) minden vezető (Egyetem magasabb vezető, vezető) beosztású polgárától erkölcsi alapon is elvárható, hogy a rendelkezésre álló források keretei között fejlessze vezetői képességeit, ismereteit.
+
+(7) A vezetői megbízás külön erkölcsi felelősséget ró viselőjére, hogy elkerülje a funkciójából fakadó előnyszerzést.
+
+(8) Az Egyetem (Eszterházy Károly Katolikus Egyetem) fórumain minden polgárnak joga van az Egyetem (Eszterházy Károly Katolikus Egyetem) vezetőit, intézményeit, kollektív vagy egyedi intézkedéseit, gyakorlatát illető tárgyilagos kritika megfogalmazásához. Ezen jogát gyakorló személyt retorzióval fenyegetni, vagy vele szemben megtorlást alkalmazni hatalommal való visszaélésnek és súlyos etikai vétségnek számít.
+
+(9) Az Egyetem (Eszterházy Károly Katolikus Egyetem) döntéshozó testületének minden tagja köteles az üléseken részt venni, azokra felkészülni, mindent elkövetni annak érdekében, hogy a testület döntései megalapozottak legyenek, a döntéshozatal során a tényeket objektíven értékelni, döntéseik következményeit felelősen mérlegelni, a napirendre vett kérdésekben a képviselteket – lehetőség szerint – előzetesen megkérdezni, és az általa képviseltek véleményének hangot adni, a testületi üléseken megfogalmazott véleményét kulturáltan és röviden kinyilvánítani.
+
+(10) Az Egyetem (Eszterházy Károly Katolikus Egyetem) döntéshozó testületeinek munkájában résztvevő alkalmazott kötelessége, hogy döntéshozó helyzetben a tényeket objektíven mérlegelő, az általa képviselt közösség véleményét és érdekét tükröző álláspontot képviseljen, és tevékenységéről a képviselteket, a választókat tájékoztassa.
+
+V. ETIKAI VÉTSÉG
+
+(1) Az az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára), aki a jelen kódexben megfogalmazott elvárásokat szándékosan nem teljesíti, vagy az abban tiltott cselekményeket, magatartást szándékosan megvalósítja, etikai vétséget követ el.
+
+VI. ETIKAI BIZOTTSÁG
+
+(1)A munkavállalók etikai ügyeiben az Etikai Bizottság jár el.
+
+(2)	A bizottság elnöke a delegált általános rektorhelyettes, tagjait a rektor javaslatára a Szenátus választja meg.  A bizottság tagjainak száma tizenegy fő, közülük egy-egy tagot a Karok, a KFK és a Jászberényi Campus  delegál. A bizottság további szavazati joggal rendelkező tagjai az Egyetemi Hallgatói Önkormányzat által delegált 3 fő.
+
+(3) A bizottság ügyrendjét és munkaprogramját maga fogadja el, a bizottság megalakulását követő 30 napon belül. Az ügyrendben szabályozni kell az etikai eljárás menetét, az eljárás rendjét.
+
+(4) Az ügyrendet a rektor hagyja jóvá. A bizottság döntéseit többségi szavazással hozza. A bizottság munkáját az Etikai Kódex (Etikai Kódex) szerint végzi.
+
+(5) Az ügyek tárgyalásánál a bizottságot az elnök hívja össze. Hallgatókat érintő ügyek tárgyalásánál az elnök és a hallgató tagok, a dolgozói ügyek tárgyalásánál az elnök és négy dolgozó tag alkotja a bizottságot. Az etikai bizottság konkrét ügyet érintő munkájában nem vehet részt az, akitől az ügy tárgyilagos megítélése nem várható el. Erről a bizottság elnöke dönt.
+
+(6) Mindenki, aki a kódex (Etikai Kódex) hatálya alatt áll, köteles a bizottsággal együttműködni. Az együttműködés megtagadása, a meghallgatás lehetetlenné tétele önmagában is etikai vétség.
+
+(7) A bizottság jogosult az etikailag kifogásolható magatartás kivizsgálására, ajánlások megfogalmazására, valamint vitás kérdésekben egyeztetések lefolytatására. Jogosult továbbá fegyelmi, szabálysértési vagy büntetőeljárás kezdeményezésére, amennyiben álláspontja szerint a vétség fegyelmi, szabálysértési vagy büntetőeljárást alapoz meg.
+
+(8) A bizottság jogosult az ülésére a tárgyalt napirendtől függően külső vagy belső szakértőket meghívni.
+
+(9) A bizottság a vizsgálatot a bejelentéstől számított 3 munkanapon belül elkezdi, és lekésőbb a kezdő időponttól számított 30 munkanapon belül köteles azt befejezni. Ez a határidő a nyári szabadság időtartamával – legfeljebb 30 munkanappal – meghosszabbítható. A meghosszabbításról a bizottságnak határozatot kell hoznia.
+
+(10) A bizottság egyedi döntéseiről, állásfoglalásairól egy másolati példányt minden esetben el kell juttatni a rektorhoz, és azokról elektronikusan a helyben szokásos módon az érintettek nevének feltüntetése nélkül, anonimizált formában minden polgárt tájékoztatni kell.
+
+VII. ELJÁRÁS ETIKAI VÉTSÉGEK ESETÉBEN
+
+1. Az eljárás megindítása
+
+(1) Az erkölcsi normák megsértését a tudomásra jutástól számított 3 hónapon belül bejelentheti a sértett vagy bárki, aki e tényről hitelt érdemlően tudomással bír, és aki bejelentése hitelességének bizonyításában nevének felfedésével kész részt venni. A bejelentést meg lehet tenni szóban vagy írásban a rektornál, mint munkáltatói jogkör gyakorlójánál vagy a bizottság elnökénél. A szóban előterjesztett bejelentésről a (6) bekezdés szerinti jegyzőkönyv készül.
+
+(2) Névtelen bejelentés alapján nem lehet eljárást lefolytatni.
+
+(3) Amennyiben a bejelentő nevének elhallgatását kéri, úgy az eljárás folyamatában számára az adatainak zárt kezelését biztosítani kell, melyet csak a bizottság tagjai ismerhetnek meg. Ha ezt sem vállalja, el kell utasítani a bejelentést érdemi vizsgálat nélkül.
+
+(4) Ismétlődően elkövetett etikai vétség esetén a legkésőbb megvalósult cselekmény időpontja irányadó, azonban a vétség elbírálásánál az egymással összefüggő, korábbi cselekményeket is figyelembe kell venni.
+
+(5) A bejelentésnek lehetőség szerinti mértékben konkrétnak kell lennie: meg kell jelölni az erkölcsi norma ellen vétő nevét, a cselekmény helyét és időpontját, a megtörtént eset leírását, továbbá megtörténtének rendelkezésre álló bizonyítékait (például tanúk, tárgyi bizonyítékok).
+
+(6) A szóban tett bejelentésről jegyzőkönyvet kell felvenni, amelyet alá kell írnia a bejelentőnek, a bejelentést fogadónak és a jegyzőkönyvvezetőnek.
+
+2. A bizottság eljárása
+
+(1) A bejelentést és a benyújtott bizonyítékokat, ha nem az Etikai Bizottság elnökénél terjesztették elő, késedelem nélkül – legkésőbb 3 munkanapon belül – el kell juttatni az Etikai Bizottság elnökéhez.
+
+(2) Az eljárás alatt a bizottság tagjait titoktartási kötelezettség terheli. Folyamatban lévő ügyről felvilágosítás csak az érintetteknek (bejelentő, sértett, bepanaszolt) adható.
+
+(3) A bizottság a panasz kézhezvételét követő nyolc munkanapon belül - az érintettek írásbeli idézését követően - meghallgatást tart, amelyen kizárólag az eljárás alá vont, a panaszos, a bejelentő, továbbá az a személy vehet részt, akinek jelenlétét az ügy tisztázása érdekében a bizottság szükségesnek tartja. Az eljárás alá vont személyt meg kell hallgatni, kivéve, ha az eset összes körülményeiből egyértelműen megállapítható, hogy a bejelentés alaptalan.
+
+(4) Az eljárás alá vont egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) a meghallgatáson személyesen köteles részt venni. Az indokolatlan távolmaradás etikai vétségnek minősül.
+
+(5) Magasabb vezető (Egyetem magasabb vezető, vezető), vezető (Egyetem magasabb vezető, vezető), továbbá a testület választott tisztségviselője elleni vizsgálat eredményéről a rektort, illetve az adott testület elnökét írásban tájékoztatni kell.
+
+(6) A rosszhiszemű, vagy nyilvánvalóan alaptalan bejelentés esetén a bizottság a bejelentővel szemben folytat le etikai eljárást.
+
+3. Szankciók alkalmazása
+
+(1) A bizottság csak akkor alkalmazhat bármilyen, a bepanaszoltnak hátrányt okozó intézkedést, ha az etikai vétség elkövetése kétséget kizáróan bizonyított.
+
+(2) A bizottság szankció alkalmazása nélkül megszünteti az etikai eljárást, ha:
+
+a) 	a bejelentésben megjelölt magatartás nem minősül etikai vétségnek;
+
+b) 	a bepanaszoltnak az Egyetemmel fennálló jogviszonya az etikai eljárás alatt megszűnt.
+
+(3) Amennyiben a bizottság a bejelentésben megjelölt erkölcsi normasértést bizonyítottnak találja, határozati formában az alábbi szankciók alkalmazásáról dönthet:
+
+a) 	írásbeli figyelmeztetés;
+
+b) 	javaslat a vezetői/magasabb vezetői megbízás visszavonására;
+
+c) 	testületi tag esetén javaslat a választó közösségnek a választott polgár visszahívására vagy a megbízás visszavonására;
+
+d)	a normasértésnek megfelelő természetű, erkölcsi elégtétel, amely lehet nyilvános bocsánatkérés, helyreigazítás. Amennyiben írásban történt a normasértés, úgy a helyreigazításnak is írásban kell történnie, és a nyilvánosságot itt is biztosítani kell;
+
+e)	szintén a normasértés természetéhez illeszkedően, valamilyen előny, elégtétel biztosítása a sértett számára.
+
+(4) A bizottság fegyelmi eljárást kezdeményez, amennyiben az etikai normasértéssel együtt fegyelmi vétség gyanúja is felmerül, illetve büntető vagy szabálysértési feljelentésre hívja fel a rektort, ha az etikai normasértés egyúttal bűncselekmény vagy szabálysértés gyanújára ad alapot. Amennyiben az ügyben fegyelmi, büntető vagy szabálysértési eljárás indul, azok jogerős befejezéséig az etikai eljárást fel kell függeszteni, majd a cselekmény érdemi elbírálását követően meg kell szüntetni.
+
+(5) A döntést a bizottsági ülésen jelenlévő bejelentővel, sértettel és bepanaszolttal haladéktalanul szóban kell ismertetni, majd 8 napon belül írásba kell foglalni, és az érdekelteknek igazolható módon (személyes átadással, tértivevényes levélben) kézbesíteni. Amennyiben az Etikai Bizottság állásfoglalását az előbbiek tudomásul veszik, megtörténik a szankciók végrehajtása.
+
+(6) Az Etikai Kódexben foglalt rendelkezések súlyos vagy ismételt megszegése esetén a Bizottság az eljárás alá vont személy munkaviszonyának felmondás – külön meghatározott esetben rendkívüli felmondás – útján történő megszüntetésre tehet javaslatot a rektor felé.
+
+4. Jogorvoslati jog
+
+(1)A bizottság döntése ellen jogorvoslatot lehet kezdeményezni a rektornál. Jogorvoslati kérelemmel élhet:
+
+a) 	az eljárás alá vont,
+
+b) 	a panaszos,
+
+c) 	a bejelentő.
+
+(2) A jogorvoslati kérelmet az írásbeli határozat kézhezvételétől számított nyolc munkanapon belül a rektornak címezve, de a bizottságnál írásban benyújtva lehet előterjeszteni. A beadványban meg kell jelölni azokat az indokokat, amelyek alapján a kérelmező a döntés megváltoztatását kéri.
+
+(3) Az elbírálás után a rektor az alábbi döntéseket hozhatja:
+
+a) 	megállapíthatja az első fokú határozat megalapozottságát, és azt helyben hagyja,
+
+b) 	amennyiben az első fokú határozatot nem találja megalapozottnak, hatályon kívül helyezi és megszünteti az eljárást, vagy megváltoztatja a határozatot
+
+c) 	hatályon kívül helyezi a határozatot, és új eljárás lefolytatását rendeli el.
+
+(4) A (3) bekezdés szerinti határozattal szemben az Egyetemen belül további jogorvoslatra nincs lehetőség.
+
+VIII. ZÁRÓ ÉS HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
+
+(1) Az etikai eljárás során keletkezett iratokat a Rektori Kabinet kézi irattárában kell elhelyezni, és bizalmasan kell kezelni.
+
+(2) Az Etikai kódexet a Szenátus 2025. április 30. napján a 27/2025. (IV.30.) sz. határozatával fogadta el és az 2025. május hó 1. napján lép hatályba
+
+Az elfogadott szabályzatot az egyetem (Eszterházy Károly Katolikus Egyetem) honlapján a helyben szokásos módon közzé kell tenni. Az új dolgozók belépésekor, illetve a hallgatói beiratkozást követően az Etikai Kódex (Etikai Kódex) elérési útvonalát az illetékes HR munkatárs, illetve az Oktatási Igazgatóság illetékes munkatársa megosztja az érintettekkel.
+
+Eger, 2025. április 30.
+
+Dr. Pajtókné Dr. Tari Ilona				          Dr. Novák István
+
+rektor					delegált általános rektorhelyettes
+
+az Etikai Bizottság elnöke
+
+Az Egri Főegyházmegye képviseletében jóváhagyom:
+
+Eger, 2025. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

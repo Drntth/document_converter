@@ -1,0 +1,1900 @@
+[
+  {
+    "type": "Image",
+    "element_id": "81f46ac3fda135c83625a3d7b5c34694",
+    "text": "IMAGE",
+    "metadata": {
+      "image_url": "images/Etikai kódex 20250501/image_1.jpeg",
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51",
+      "image_description": "A képen az Eszterházy Károly Katolikus Egyetem logója és illusztrált épülete látható."
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "07676a6ba879aef76366378bf5b3261e",
+    "text": "ETIKAI KÓDEXE",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4061f2c2712c38edc6d61e68d4ca7cd7",
+    "text": "(Jelen szabályzatot a Szenátus a 27/2025. (IV.30.) sz. határozatával elfogadta)",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9a6a4c44bbf744224d39176893fc5c45",
+    "text": "2025.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "60b7960a904d8937d633ce93018c3208",
+    "text": "Készítette Elfogadta és Jóváhagyta Dr. Novák István delegált általános rektorhelyettes, az Egyetem Etikai Bizottságának Elnöke és  Rákosiné dr. Jakab Éva kabinetvezető EKKE Szenátus a 27/2025. (IV.30.) sz. határozatával Jóváhagyta Egri Főegyházmegye",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>Készítette</td><td>Elfogadta és Jóváhagyta</td></tr><tr><td/><td>Dr. Novák István delegált általános rektorhelyettes, az Egyetem Etikai Bizottságának Elnöke és Rákosiné dr. Jakab Éva kabinetvezető</td><td>EKKE Szenátus a 27/2025. (IV.30.) sz. határozatával Jóváhagyta Egri Főegyházmegye</td></tr></table>",
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51",
+      "table_summary": "Dr. Novák István, delegált általános rektorhelyettes, az Egyetem Etikai Bizottságának Elnöke és Rákosiné dr. Jakab Éva kabinetvezető által készített dokumentumot az EKKE Szenátus a 27/2025. (IV.30.) számú határozatával jóváhagyta az Egri Főegyházmegye."
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6cc12565d416449ea444ac78578ceebb",
+    "text": "I. AZ ETIKAI KÓDEX (Etikai Kódex) CÉLJA",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04a348a9f1906a4e001d0177aed0f09e",
+    "text": "Az Etikai Kódex (kódex)célja olyan erkölcsi magatartási normák meghatározása, amelyek követésével az Eszterházy Károly Katolikus Egyetem (Egyetem) alkalmazottai, hallgatói, valamint az egyetemi feladatokat nem munkaviszony alapján ellátó személyek hozzájárulnak az emberi kapcsolatok erősítéséhez, a szakmai munkát segítő jó közérzet megteremtéséhez, az Egyetem (Eszterházy Károly Katolikus Egyetem) hagyományainak, jó hírnevének, szakmai és intézményi integritásának megőrzéséhez, ápolásához.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1dc260a7c4a7cac65a74f61a0535591f",
+    "text": "II. AZ ETIKAI KÓDEX (Etikai Kódex) HATÁLYA",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d505586fe0c274cecbd373bb48d4f652",
+    "text": "(1) A kódex (Etikai Kódex) hatálya kiterjed az Egyetem (Eszterházy Károly Katolikus Egyetem) valamennyi polgárára (egyetemi polgár), így az Egyetem (Eszterházy Károly Katolikus Egyetem) oktató, tudományos kutató és nem oktató, egyéb munkavállalóira, az oktatási és egyéb feladatokat nem munkaviszony alapján ellátó személyekre, és valamennyi hallgatóra.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8ce8cb816240ebffd4f70a3bde1fa245",
+    "text": "(2) A kódex (Etikai Kódex) hatálya kiterjed az egyetemi polgárok egyetemi tevékenységére, továbbá azokra az Egyetemen kívüli magatartásokra, melyek az egyetemi léttel összefüggnek és kihatnak az Egyetem (Eszterházy Károly Katolikus Egyetem) társadalmi megítélésére, hírnevére.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "87d178aa0a7c20b726851e4def485ffb",
+    "text": "(3) A kódex (Etikai Kódex) hatálya kiterjed azon cselekményekre, magatartásokra is, amelyekhez jogszabály vagy egyetemi szabályzat hátrányos jogkövetkezményt fűz, azonban önmagukban is a jelen kódexben meghatározott etikai vétséget valósítanak meg.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d0401e9c2bac3f799542bfc2742c1d1",
+    "text": "(4) Az Egyetem (Eszterházy Károly Katolikus Egyetem) vállalja, hogy polgárai számára minden esetben erkölcsi támogatást és védelmet nyújt a kódexben foglalt jogok gyakorlása és kötelezettségek teljesítése során.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "51bc8a62181d20ed6410cd0b67079b73",
+    "text": "(5) Az egyetemi polgárok tevékenységével összefüggő, tisztázást igénylő erkölcsi konfliktus esetén bárki állásfoglalásért fordulhat az Egyetem (Eszterházy Károly Katolikus Egyetem) Etikai Bizottságához. Az Etikai Bizottság köteles harminc napon belül írásban véleményt nyilvánítani, és állásfoglalását (az érintett felek tekintetében anonimizált formában) az érintettel és (elektronikusan) az egyetemi polgárokkal megismertetni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6b1b054d0a2da294066e925181f9739b",
+    "text": "III. ÁLTALÁNOS ERKÖLCSI ELVÁRÁSOK",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1029c8b88178a7914767c1efbba61815",
+    "text": "(1) A jogszabályok, valamint az Egyetem (Eszterházy Károly Katolikus Egyetem) belső szabályzataiban foglalt előírások betartása az egyetemi polgárok erkölcsi kötelessége. A kódex (Etikai Kódex) elsősorban olyan területeken fogalmaz meg elvárásokat, amelyről jogszabályok és az Egyetem (Eszterházy Károly Katolikus Egyetem) belső szabályzatai nem rendelkeznek, vagy amely esetekben ezen jogi normák erkölcsi követelményekre hivatkoznak.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf8e08ea4c568b37fbc2601b1498d791",
+    "text": "(2) A kódex (Etikai Kódex) az Egyetem (Eszterházy Károly Katolikus Egyetem) polgáraira vonatkozó általános emberi és önkéntes megállapodáson alapuló konkrét szervezeti értékeket rögzítő normákat tartalmaz. A kódex (Etikai Kódex) által érintett kérdésekben etikusnak az a magatartás tekinthető, amely a kódexben megfogalmazott elvárásokkal összhangban áll. Etikai vétséget követ el, aki – szándékosan vagy gondatlanul – megszegi, vagy figyelmen kívül hagyja a kódexben megfogalmazott elvárásokat.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "14f5a99c22351322d8f75664d2e09b89",
+    "text": "(3) Az Egyetem (Eszterházy Károly Katolikus Egyetem) az Alapító Okiratban nevesített alapfeladatainak ellátása során tevékenységével elősegíti a kereszténységen alapuló hagyományos magyar és európai kultúra és műveltség fejlődését, a családi és közösségi értékek megmaradását azáltal, hogy felsőfokú végzettségű szakembereket képez, és tovább képez. Egyetemünk életében kiemelten fontos, hogy az intézmény működésével segítse az Egri Főegyházmegye és a Magyar Katolikus Egyház oktatási, nevelési, hitéleti feladatainak ellátását.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7dcae6a35b53015aac8c67f31895a475",
+    "text": "(4) Az Egyetem (Eszterházy Károly Katolikus Egyetem) az oktatói és egyéb munkakörben foglalkoztatott munkavállalói számára is biztosítja a keresztény értékrend, a keresztény etika megismerését. Ennek céljából évente több alkalommal különböző programokat szervez, amelyen a Katolikus Egyház hit- és erkölcsbeli tanítását adja át ismeretterjesztő és tudományos módszerekkel.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c5a3a7e683589a777002a7952f24490",
+    "text": "5) Az Egyetem (Eszterházy Károly Katolikus Egyetem) nyitott nem csak a katolikus vallásúak, hanem más vallású, illetve nem hívő egyetemi polgárok számára is, amennyiben tiszteletben tartják az intézmény katolikus jellegét. Ennek megfelelően az Egyetem (Eszterházy Károly Katolikus Egyetem) polgárai megnyilatkozásaikban, életmódjukban, oktatási, kutatási feladataik és tanulmányi munkájuk során kötelesek tiszteletben tartani a Katolikus Egyház tanítását, ugyanakkor közéleti, tudományos és oktatási kérdésekben mindenkinek joga van a véleménynyilvánítás szabadságához, az oktatás és kutatás szabadságához. Az Egyetem (Eszterházy Károly Katolikus Egyetem) továbbá elkötelezett az egyenlő bánásmód követelményének betartása, a bárminemű diszkrimináció tilalma iránt.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0ae1312d8827c0f9b0d3f56479e4ef9",
+    "text": "(6) Az Egyetemen tanuló és oktató külföldi állampolgároktól elvárható, hogy – saját kultúrájuk megőrzése mellett – alkalmazkodjanak a Magyarországon, és az Egyetemen általánosan elfogadott viselkedési normákhoz, és – legalább a tanulmányok és az egyetemi közösségbe való beilleszkedéshez szükséges mértékig – törekedjenek szokásaink, hagyományaink megismerésére, és elfogadására.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffdc756e61fcc149c56cca71f6142c3a",
+    "text": "(7) Az Egyetem (Eszterházy Károly Katolikus Egyetem) minden polgárát arra kötelezi az alapvető emberi norma és a keresztény tanítás, hogy erőteljesen lépjen fel a kiskorúakat, fiatal felnőtteket érintő bármely abúzus ellen, továbbá a valamilyen szempontból sérülékeny társadalmi csoportokkal szemben elkövetett abúzust is elítéli. Minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) köteles megismerni és rendelkezéseit maradéktalanul betartani az Egri Főegyházmegye 2022. szeptember 1. hatállyal kiadott Gyermek- és Ifjúságvédelmi Szabályzatának.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "edfad44d8d2e2cd30bf339e9e9bc67e5",
+    "text": "(8) Az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) személyiségi jogait úgy gyakorolja, hogy ezzel mások személyiségi jogait ne sértse.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4e82e7e2615cb23889eef102074545d",
+    "text": "(9) Minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) kötelessége az Egyetem (Eszterházy Károly Katolikus Egyetem) – Jövőképben, Intézményfejlesztési Stratégiában, Alapító Okiratban, Szervezeti és Működési Szabályzatban meghatározott – feladatainak végrehajtásában a jogszabályokban és a belső egyetemi szabályozókban előírt módon, azok betartásával közreműködni, és szem előtt tartani, hogy az Egyetem (Eszterházy Károly Katolikus Egyetem) alapfeladata az oktatás és a tudományos kutatás-fejlesztés.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "17c9ce63add47f5a75080a1517d9bc11",
+    "text": "(10) Az Egyetem (Eszterházy Károly Katolikus Egyetem) elvárja az egyetemi polgároktól, hogy döntéseik során az összeférhetetlenség szabályait érvényre juttassák, különös tekintettel a (párt)politikai tevékenységre, rokoni és gazdasági kapcsolatokra, valamint a jogviszonyra vonatkozó jogszabályban előírt összeférhetetlenségi szabályokra; és azt, hogy az Egyetem (Eszterházy Károly Katolikus Egyetem) érdekeinek érvényesítésében elkötelezettek legyenek.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6a6e2e2fc5bb109ef5a5c4288553dc79",
+    "text": "(11) Az Egyetem (Eszterházy Károly Katolikus Egyetem) elítéli, ha bármelyik polgára visszaél vélt vagy valós hatalmi helyzetével.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6014ae0e0030caccfea23a6a1f7dc2c5",
+    "text": "(12) Az egyetemi polgárok minden megengedett módon kötelesek egymást segíteni egyetemi feladataik elvégzésében. Az egyetemi polgároknak feladataik ellátása során a kölcsönös tisztelet és bizalom alapulvételével együttműködésre kell törekedniük, és egymás munkáját meg kell becsülniük. A szervezeti egységben a rendelkezésre álló lehetőségeknek megfelelően támogatni kell a munkatársak szakmai tevékenységét, munkavégzését, tudományos előmenetelét, képzését, továbbképzését. A beosztott munkatársakkal szemben világos követelményeket és elvárásokat kell megfogalmazni, munkájukat következetesen, pártatlanul és igazságosan kell értékelni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0043b1ef23f23c544423bf1d0a5a4a25",
+    "text": "(13) Minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) a munkaköre, megbízatása körében kapott feladatot legjobb képességei szerint, gondos munkával, maradéktalanul végezze el, az Egyetem (Eszterházy Károly Katolikus Egyetem) vezetői, testületei által adott (eseti vagy tartós) megbízást, feladat elrendelést a legjobb tudása szerint határidőre teljesítse, azt – méltányolható és a megbízónál előzetesen igazolt indok nélkül – ne adja vissza.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "65de094f73a939d0a1768fed7200c319",
+    "text": "(14) Az Egyetemtől elvárható, hogy a többlet-teljesítményért arányos díjazást, egyéb juttatást vagy erkölcsi elismerést biztosítson. Az egyetemi polgárok javadalmazásának méltányosnak és igazságosnak kell lennie, összhangban kell állnia az egyéni erőfeszítésekkel, illetve a rendelkezésre álló lehetőségekkel.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6471215d0f19d9b7d3ec3676580f40bf",
+    "text": "(15) Minden egyetemi polgárnak törekednie kell az intézmény jó hírnevének, tekintélyének megóvására, gyarapítására és tartózkodnia kell minden olyan megnyilvánulástól, amely sérti az Egyetem (Eszterházy Károly Katolikus Egyetem) érdekét. A közösségi identitás erősítése érdekében minden egyetemi polgárnak lojalitást és szolidaritást kell tanúsítania az Egyetem (Eszterházy Károly Katolikus Egyetem) minden polgára, testülete, és szervezete iránt. Az Egyetem (Eszterházy Károly Katolikus Egyetem) elvárja polgáraitól, hogy más felsőoktatási intézménnyel szemben is képviseljék egyetemünk méltányolható érdekeit.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b8fa0fc5563ce62637cc27c1057c3b6a",
+    "text": "(16) Minden polgártól elvárható a társadalmilag elfogadott mértéknek megfelelő és mértéktartó életvitel. Kerülni kell az olyan helyzetet, amelyben az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) megbecsülése, személyes méltósága vagy az Egyetem (Eszterházy Károly Katolikus Egyetem) hírneve csorbulhat. E tényállás alapján etikai szankció csak szándékos magatartás esetén alkalmazható.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "180feb6b9af9c88071983f1d06dc754a",
+    "text": "(17) Az egyetemi polgárok kötelesek figyelemmel lenni arra, hogy – az Egyetemen belüli vagy azon kívüli – nyilvános megnyilatkozásaikban az Egyetemet, illetve annak szervezeti egységeit is képviselik. Ilyen alkalommal is kötelesek hitelt érdemlően, tárgyszerűen, a titoktartás alá eső információk esetén a titoktartási szabályokat és az Egyetem (Eszterházy Károly Katolikus Egyetem) érdekeit figyelembe véve nyilatkozni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b625bb7c920063963da8d708eb5efeb6",
+    "text": "(18) Az Egyetem (Eszterházy Károly Katolikus Egyetem) törekszik a nyitottságra, igyekszik jó kapcsolatot kiépíteni partnereivel, az Egyetemen kívüli közösségekkel, más intézményekkel. A szellemi javak és kulturális értékek hatékony terjesztésével igyekszik szolgálni a régiót és a helyi közösségeket. Az ebben való részvétel az egyetemi polgárok kötelezettsége.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fda0797a71bbb4d2e7fdefaaca5e6174",
+    "text": "(19) Az Egyetem (Eszterházy Károly Katolikus Egyetem), valamint az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) által kiadott nyilatkozatnak, közleménynek, hirdetésnek hiteles, pontos információkat kell tartalmaznia. A tartalmilag pontatlan, hamis, az esetleges versenytársakat kedvezőtlen színben feltüntető információ, reklám, közlemény közzététele ellentétes az Egyetem (Eszterházy Károly Katolikus Egyetem) erkölcsi normáival. Az ilyen nyilatkozatot tevő, illetve a nyilatkozatot kiadó etikai vétséget követ el.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a79bbcbda7168e2a9b94db0b34ce1a0",
+    "text": "(20) Az Egyetemet érintő konkrét ügyekről minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) csak saját hatáskörében, felelősségteljes módon nyilatkozhat, illetve így képviselheti véleményét. Súlyos etikai vétségnek minősül minden olyan nyilvános közlés vagy híresztelés, amely tudatosan valótlant állít, különösen, ha az Egyetemet vagy annak szervezeti egységét, polgárát etikailag kifogásolható magatartással vagy ilyen cselekmény elkövetésével gyanúsítja.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "323a20da7f95b1fc5539ff6eed2b2f10",
+    "text": "(21) Jogosulatlan gazdasági, anyagi, vagy a szellemi életben hasznosítható előny megszerzése érdekében az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) részére bárki által felajánlott anyagi vagy más egyéb szolgáltatást vissza kell utasítani. Jogtalan előny felajánlása, nyújtása vagy elfogadása súlyosan elítélendő. Etikai követelmény elkerülni minden olyan helyzetet, amelyben jogtalan előny kérésének, illetve nyújtásának ténye vagy gyanúja felmerülhet.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "675d6164dbb266bf260a1018e9e4a232",
+    "text": "(22) Az Egyetem (Eszterházy Károly Katolikus Egyetem) tiltja az egyetemi infrastruktúrának magánérdekből, üzleti haszonszerzés céljából ingyenesen történő igénybevételét. Csak olyan feladat elvégzésére használható fel az Egyetem (Eszterházy Károly Katolikus Egyetem) infrastruktúrája, amelyről az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) közvetlen felettesének tudomása van, és a felhasználással egyetért.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8fe178e0eb06f8d4466f488acebe004b",
+    "text": "(23) Az Egyetem (Eszterházy Károly Katolikus Egyetem) tiltja az egyetemi infrastruktúrának pártpolitikai célra, világnézeti agitációra történő igénybevételét.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c098afa26320fbffb08dcb8cef559df1",
+    "text": "(24) Az Egyetem (Eszterházy Károly Katolikus Egyetem) polgárai kötelesek titokként megőrizni mindazokat a személyiségi jogokat érintő információkat és adatokat, valamint üzleti titoknak minősülő adatokat, amelyek munkavégzésük során tudomásukra jutnak. Mind az egymás közötti, mind a külső megnyilatkozásaik során szem előtt kell tartaniuk a diszkréció, titoktartás illetve a GDPR vonatkozó követelményeit.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "96c6ceca2112feb08519b18f3f1f8cde",
+    "text": "(25) A személyes adatok, továbbá az üzleti titok védelmére vonatkozó szabályok szándékos megsértése, amennyiben a cselekmény súlyosabb jogsértést nem valósít meg, etikai vétségnek minősül. Kiemelt jelentősége van a hivatali adatok, információk védelmének. Az Egyetemre, és polgáraira vonatkozó adatokat a jogszabályok és a belső előírások, az Egyetem (Eszterházy Károly Katolikus Egyetem) Adatvédelmi és adatbiztonsági szabályzatában foglaltak szerint kell kezelni, a feljegyzéseket, adatbázisokat biztonságban kell tartani. A védett adatok megszerzése és továbbadása etikai vétség is. Az Egyetem (Eszterházy Károly Katolikus Egyetem) alkalmazottai az egyetemi polgárokról nyert, és egyébként nem nyilvános, illetve nem köztudott információkat (személyi juttatások, tanulmányi előmenetel, magánélet, politikai vagy vallási meggyőződés, stb.) kötelesek hivatali titokként őrizni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d9247ee9910557f192cdcdb5b00c218",
+    "text": "(26) Erkölcsileg kívánatos, hogy minden egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) lépjen fel az Egyetemen előforduló visszásságokkal szemben, azok megszüntetésére saját hatás- és feladatkörében tegyen lépéseket, még akkor is, ha ezzel személyes konfliktust vállal fel.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fbde25711a6f281d113605ccc8fe33dc",
+    "text": "(27) Az Egyetem (Eszterházy Károly Katolikus Egyetem) a tudományos, kutató tevékenység, egyéb munkavégzés során elvárja a tisztesség, megbízhatóság, objektivitás, nyitottság, elfogulatlanság, felelősség elve szerinti magatartás tanúsítását a tudományos tevékenység, kutatás, egyéb munkavégzés megtervezése, megvalósítása, megjelentetése során egyaránt.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3be72e2d7f11ca0adfec2fff5c56cce8",
+    "text": "(28) Az Egyetem (Eszterházy Károly Katolikus Egyetem) tiltja mások ötleteinek, tudományos eredményeinek, szövegeinek forrásmegjelölés nélküli átvételét és sajátként való feltüntetését. A szellemi tulajdon védelmére vonatkozó szabályok szándékos megsértése, amennyiben a cselekmény súlyosabb jogsértést nem valósít meg, etikai vétségnek minősül. Az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) erkölcsi kötelessége, hogy becsülje meg, tartsa számon az Egyetem (Eszterházy Károly Katolikus Egyetem) szellemi termékeit, és tegyen meg mindent azok védelme érdekében.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2763bad3b32e7990935374b0c8203c38",
+    "text": "(29) Az Egyetem (Eszterházy Károly Katolikus Egyetem) elvárja közös tudományos és egyéb munka, kutatás esetén az egyéni teljesítmények világos megjelenítését; ugyanennek érvényesítését a hallgatói, illetve doktorandusz közreműködéssel folyó közös kutatásban.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "036d856e61417f4d74c3f3141b77842e",
+    "text": "(30) Az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) kötelezettsége, hogy az Egyetem (Eszterházy Károly Katolikus Egyetem) eszközeivel, illetve forrásaival elért kutatási eredmények megjelentetésekor az Egyetem (Eszterházy Károly Katolikus Egyetem) nevét feltüntesse.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a171aec85783be92d12f42e71bbec0c1",
+    "text": "(31) A kutatást végző egyetemi polgárok esetében az általános kutatásetikai szabályok – adatok védelme, plágium, közlési jog – betartása kötelező.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b61d22b4befffc40f503c4eddc4bcff8",
+    "text": "(32) A közlemények, pályázatok bírálata esetén a bíráló köteles betartani az összeférhetetlenségi és titoktartási követelményeket.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bdc60f9e2387ff7d18deb5056dbbd956",
+    "text": "(33) Mind az Egyetem (Eszterházy Károly Katolikus Egyetem), mind annak polgárai számára etikai elvárás, hogy a polgárok életét, egészségét, testi épségét védje, oltalmazza.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e7c7d77154fbe97f57c633410b41e1aa",
+    "text": "(34) Valamennyi egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) feladata az Egyetem (Eszterházy Károly Katolikus Egyetem) vagyontárgyainak rendeltetésszerű, megfelelő gondosságú használata és biztonságos megóvása. A nem megfelelően vagy nem biztonságosan működő eszközökre, berendezésekre fel kell hívni az illetékes munkatársak, szervezeti egységek figyelmét.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9422382f7af2fd594d04bd6b8feb342",
+    "text": "(35) Az Egyetem (Eszterházy Károly Katolikus Egyetem) szervezeti egységei kötelesek alávetni magukat a rektor és a magasabb vezetők által kezdeményezett ellenőrzéseknek. Az Egyetem (Eszterházy Károly Katolikus Egyetem) polgárai nem akadályozhatják az egyetemi/kari szabályzatokban foglalt jogosítványok gyakorlását.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "738b696beba08c28ee7efdf347181b42",
+    "text": "(36) Az Egyetem (Eszterházy Károly Katolikus Egyetem) polgárai kötelesek alávetni magukat a fegyelmi, a kártérítési, az etikai bizottsági eljárásnak, ha annak jogszabályi vagy egyetemi/kari szabályzatban megállapított feltételei maradéktalanul fennállnak.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3bdac885e2307990bd9873fade2f6d9d",
+    "text": "IV. A MAGASABB VEZETŐ (Egyetem magasabb vezető, vezető)/VEZETŐ (Egyetem magasabb vezető, vezető) BEOSZTÁSÚ, VALAMINT A DÖNTÉSHOZÓ TESTÜLETEKBEN RÉSZTVEVŐ ALKALMAZOTAKKAL SZEMBENI KÜLÖN ELVÁRÁSOK",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77c47e7f8440e951f59ac8d8fbc247ef",
+    "text": "(1) Az Egyetem (Eszterházy Károly Katolikus Egyetem) magasabb vezető (Egyetem magasabb vezető, vezető), vezető (vezető) beosztású alkalmazottjától elvárható, hogy az általa irányított szervezeti egységet – a jogi, gazdasági és vezetői felelősségen túl – a kódexben meghatározott erkölcsi követelményeket is figyelembe véve vezesse. Ennek megfelelően:",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8be55c77544ad2fcda6032691ccae9af",
+    "text": "a) figyeljen munkatársai szakmai és emberi problémáira, ezek meghallgatásakor legyen tapintatos, türelmes,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cc3588361a66ab487f775397dd0897ae",
+    "text": "b) döntéseit jól készítse elő, ennek során kérje ki, és – lehetőség szerint – vegye figyelembe beosztottjai véleményét,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f9bbc73c45d3ce345a6727f05e1e406",
+    "text": "c) beosztottjai szakmai feladatainak elvégzéséhez a szükséges szabadságot és – jogszabályi keretek között – az önálló döntési kompetenciát biztosítsa,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f5cfb950628a1076bb3269959f747b10",
+    "text": "d) a feladatok elvégzéséhez szükséges információk beszerzéséről és az érintettek rendelkezésére bocsátásáról gondoskodjon,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5c06704e2077537bdd674019eeb4c7c3",
+    "text": "e) erkölcsi támogatást és ösztönzést adjon beosztottjai folyamatos önképzéséhez, továbbképzéséhez,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4890ecccc4bc81ce0fc3029fa1e18a75",
+    "text": "f) az adminisztrációban, ügyvitelben résztvevő alkalmazottaktól pontos ügyintézést és udvarias magatartást követeljen meg,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8341621df429b5b730cc71a7921d7770",
+    "text": "g) munkatársait ne tüntesse fel rossz színben, mások erre való törekvéseit utasítsa vissza.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "931b3ca4035c88f0edf3ccfd50ff819e",
+    "text": "(2) A vezető (Egyetem magasabb vezető, vezető) kötelessége, hogy a hatáskörébe tartozó ügyekben döntéshozói pozíciójával ne éljen vissza a kedvezmények vagy juttatások odaítélésekor, kitüntetési javaslat tétele vagy odaítélése során, sem más jellegű döntéseiben. Ennek megfelelően:",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5c4e93ba288150185eaa220708a4c12e",
+    "text": "a) etikai vétséget követ el az a vezető (Egyetem magasabb vezető, vezető), aki nem biztosítja beosztottjainak a teljes esélyegyenlőséget, a szükséges és lehetséges nyilvánosságot, különösen a pályázati, publikálási, tudományos minősítéssel összefüggő döntések során,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "87cc30a24ab73b46d978f7dd385d1e2a",
+    "text": "b) etikai vétség az alá-fölérendeltségi viszony magánérdekű kihasználása a munkaviszonnyal nem összefüggő helyzetekben is,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8301d87f387044cdf88f3c83d5bf7a29",
+    "text": "c) a politikai, világnézeti befolyásolás vagy az erre való törekvés a függelmi viszonyra hivatkozva, vagy annak kihasználásával szintén etikai vétségnek minősül.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cf60aee6f6c90fc1786071878c8e0f99",
+    "text": "(3) A vezető (Egyetem magasabb vezető, vezető) beosztású munkatárssal szemben etikai elvárás, hogy a szervezeti egységében felmerülő szakmai problémák belső megoldását segítse elő, és munkatársait is erre bíztassa.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3034e57eca32d3b5a155717accba2e08",
+    "text": "(4) A vezető (Egyetem magasabb vezető, vezető) döntéseinek meghozatalakor minden esetben vegye figyelembe az Egyetem (Eszterházy Károly Katolikus Egyetem) és az általa vezetett szervezeti egység érdekeit.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f834c0363ab3cd99822f587d6c1bd88f",
+    "text": "(5) A vezető (Egyetem magasabb vezető, vezető) kiemelt erkölcsi kötelessége, hogy mind a személyes, mind az intézményre és szervezeti egységre vonatkozó adatszolgáltatásnál (például pályázatok, tudományos tevékenység, tudományos fokozat, publikációk) a valóságnak megfelelő tényeket, adatokat közöljön.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04f0371dabbeaea72a8ac0fa9d1eec58",
+    "text": "(6) Az Egyetem (Eszterházy Károly Katolikus Egyetem) minden vezető (Egyetem magasabb vezető, vezető) beosztású polgárától erkölcsi alapon is elvárható, hogy a rendelkezésre álló források keretei között fejlessze vezetői képességeit, ismereteit.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "810c4015c9a58870e317a023396d0546",
+    "text": "(7) A vezetői megbízás külön erkölcsi felelősséget ró viselőjére, hogy elkerülje a funkciójából fakadó előnyszerzést.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "177ff63ec1914e04506896413aafcd9f",
+    "text": "(8) Az Egyetem (Eszterházy Károly Katolikus Egyetem) fórumain minden polgárnak joga van az Egyetem (Eszterházy Károly Katolikus Egyetem) vezetőit, intézményeit, kollektív vagy egyedi intézkedéseit, gyakorlatát illető tárgyilagos kritika megfogalmazásához. Ezen jogát gyakorló személyt retorzióval fenyegetni, vagy vele szemben megtorlást alkalmazni hatalommal való visszaélésnek és súlyos etikai vétségnek számít.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0bf8d6fb6fb02285d7f198d8659a8197",
+    "text": "(9) Az Egyetem (Eszterházy Károly Katolikus Egyetem) döntéshozó testületének minden tagja köteles az üléseken részt venni, azokra felkészülni, mindent elkövetni annak érdekében, hogy a testület döntései megalapozottak legyenek, a döntéshozatal során a tényeket objektíven értékelni, döntéseik következményeit felelősen mérlegelni, a napirendre vett kérdésekben a képviselteket – lehetőség szerint – előzetesen megkérdezni, és az általa képviseltek véleményének hangot adni, a testületi üléseken megfogalmazott véleményét kulturáltan és röviden kinyilvánítani.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77be6e50d25f25f426dcd7b9e5d47e54",
+    "text": "(10) Az Egyetem (Eszterházy Károly Katolikus Egyetem) döntéshozó testületeinek munkájában résztvevő alkalmazott kötelessége, hogy döntéshozó helyzetben a tényeket objektíven mérlegelő, az általa képviselt közösség véleményét és érdekét tükröző álláspontot képviseljen, és tevékenységéről a képviselteket, a választókat tájékoztassa.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5f967529209bbf045cdb400ca421601b",
+    "text": "V. ETIKAI VÉTSÉG",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf0be7494ea0fe7e7f261f168d291c8d",
+    "text": "(1) Az az egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára), aki a jelen kódexben megfogalmazott elvárásokat szándékosan nem teljesíti, vagy az abban tiltott cselekményeket, magatartást szándékosan megvalósítja, etikai vétséget követ el.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d68179db61d27e7bb104112a966b3aef",
+    "text": "VI. ETIKAI BIZOTTSÁG",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4c0a2d9c01de9e110bf7c143fd31f2cc",
+    "text": "(1)A munkavállalók etikai ügyeiben az Etikai Bizottság jár el.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3917f3cfe369b26ed22c4cf3b75c37ed",
+    "text": "(2) A bizottság elnöke a delegált általános rektorhelyettes, tagjait a rektor javaslatára a Szenátus választja meg. A bizottság tagjainak száma tizenegy fő, közülük egy-egy tagot a Karok, a KFK és a Jászberényi Campus delegál. A bizottság további szavazati joggal rendelkező tagjai az Egyetemi Hallgatói Önkormányzat által delegált 3 fő.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8b2eb1926b51fcf8636da7d644c4c106",
+    "text": "(3) A bizottság ügyrendjét és munkaprogramját maga fogadja el, a bizottság megalakulását követő 30 napon belül. Az ügyrendben szabályozni kell az etikai eljárás menetét, az eljárás rendjét.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f48a895fa22d9824287cf6ab36b8201e",
+    "text": "(4) Az ügyrendet a rektor hagyja jóvá. A bizottság döntéseit többségi szavazással hozza. A bizottság munkáját az Etikai Kódex (Etikai Kódex) szerint végzi.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9bb395b9239fbfae6d08491e1cf33e9e",
+    "text": "(5) Az ügyek tárgyalásánál a bizottságot az elnök hívja össze. Hallgatókat érintő ügyek tárgyalásánál az elnök és a hallgató tagok, a dolgozói ügyek tárgyalásánál az elnök és négy dolgozó tag alkotja a bizottságot. Az etikai bizottság konkrét ügyet érintő munkájában nem vehet részt az, akitől az ügy tárgyilagos megítélése nem várható el. Erről a bizottság elnöke dönt.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9b84ae6ea1a7cf5dd5eacf3af2767be",
+    "text": "(6) Mindenki, aki a kódex (Etikai Kódex) hatálya alatt áll, köteles a bizottsággal együttműködni. Az együttműködés megtagadása, a meghallgatás lehetetlenné tétele önmagában is etikai vétség.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f7a7048a153f1f70496551480d5df04",
+    "text": "(7) A bizottság jogosult az etikailag kifogásolható magatartás kivizsgálására, ajánlások megfogalmazására, valamint vitás kérdésekben egyeztetések lefolytatására. Jogosult továbbá fegyelmi, szabálysértési vagy büntetőeljárás kezdeményezésére, amennyiben álláspontja szerint a vétség fegyelmi, szabálysértési vagy büntetőeljárást alapoz meg.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb611d2bf21903524f050d8b1db13d83",
+    "text": "(8) A bizottság jogosult az ülésére a tárgyalt napirendtől függően külső vagy belső szakértőket meghívni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c24c64d32c4fcb120be71eccbacc8ceb",
+    "text": "(9) A bizottság a vizsgálatot a bejelentéstől számított 3 munkanapon belül elkezdi, és lekésőbb a kezdő időponttól számított 30 munkanapon belül köteles azt befejezni. Ez a határidő a nyári szabadság időtartamával – legfeljebb 30 munkanappal – meghosszabbítható. A meghosszabbításról a bizottságnak határozatot kell hoznia.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3799d2942939e846f3ddb8b7c8a66674",
+    "text": "(10) A bizottság egyedi döntéseiről, állásfoglalásairól egy másolati példányt minden esetben el kell juttatni a rektorhoz, és azokról elektronikusan a helyben szokásos módon az érintettek nevének feltüntetése nélkül, anonimizált formában minden polgárt tájékoztatni kell.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8de6982e1a28baa1299f2cb40e447118",
+    "text": "VII. ELJÁRÁS ETIKAI VÉTSÉGEK ESETÉBEN",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2a35464f4bc3b5d6d01766f93de368eb",
+    "text": "Az eljárás megindítása",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6607459af67a3ddd09a83a9f35a2875e",
+    "text": "(1) Az erkölcsi normák megsértését a tudomásra jutástól számított 3 hónapon belül bejelentheti a sértett vagy bárki, aki e tényről hitelt érdemlően tudomással bír, és aki bejelentése hitelességének bizonyításában nevének felfedésével kész részt venni. A bejelentést meg lehet tenni szóban vagy írásban a rektornál, mint munkáltatói jogkör gyakorlójánál vagy a bizottság elnökénél. A szóban előterjesztett bejelentésről a (6) bekezdés szerinti jegyzőkönyv készül.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "02221e9c91dd5363b30adf4a2631371f",
+    "text": "(2) Névtelen bejelentés alapján nem lehet eljárást lefolytatni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ea5cda2704bb2020f0c0380e8f1fb9e3",
+    "text": "(3) Amennyiben a bejelentő nevének elhallgatását kéri, úgy az eljárás folyamatában számára az adatainak zárt kezelését biztosítani kell, melyet csak a bizottság tagjai ismerhetnek meg. Ha ezt sem vállalja, el kell utasítani a bejelentést érdemi vizsgálat nélkül.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f934163162fe2d3a45ad9addfd434e9",
+    "text": "(4) Ismétlődően elkövetett etikai vétség esetén a legkésőbb megvalósult cselekmény időpontja irányadó, azonban a vétség elbírálásánál az egymással összefüggő, korábbi cselekményeket is figyelembe kell venni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "93beec7baa19556132539c7fa04c1a89",
+    "text": "(5) A bejelentésnek lehetőség szerinti mértékben konkrétnak kell lennie: meg kell jelölni az erkölcsi norma ellen vétő nevét, a cselekmény helyét és időpontját, a megtörtént eset leírását, továbbá megtörténtének rendelkezésre álló bizonyítékait (például tanúk, tárgyi bizonyítékok).",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f2a634ce0a5123c92fbb5b5a54f80e16",
+    "text": "(6) A szóban tett bejelentésről jegyzőkönyvet kell felvenni, amelyet alá kell írnia a bejelentőnek, a bejelentést fogadónak és a jegyzőkönyvvezetőnek.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce63d3d816c6b62091e8e27dce6fec36",
+    "text": "A bizottság eljárása",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "686e0201ee589294ff7efc82a79877a3",
+    "text": "(1) A bejelentést és a benyújtott bizonyítékokat, ha nem az Etikai Bizottság elnökénél terjesztették elő, késedelem nélkül – legkésőbb 3 munkanapon belül – el kell juttatni az Etikai Bizottság elnökéhez.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9968a0ce3ca9424dfff40f480d12d406",
+    "text": "(2) Az eljárás alatt a bizottság tagjait titoktartási kötelezettség terheli. Folyamatban lévő ügyről felvilágosítás csak az érintetteknek (bejelentő, sértett, bepanaszolt) adható.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2905d1934ca38da4fdf183a818e55ce6",
+    "text": "(3) A bizottság a panasz kézhezvételét követő nyolc munkanapon belül - az érintettek írásbeli idézését követően - meghallgatást tart, amelyen kizárólag az eljárás alá vont, a panaszos, a bejelentő, továbbá az a személy vehet részt, akinek jelenlétét az ügy tisztázása érdekében a bizottság szükségesnek tartja. Az eljárás alá vont személyt meg kell hallgatni, kivéve, ha az eset összes körülményeiből egyértelműen megállapítható, hogy a bejelentés alaptalan.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b7a5cc3d83bd4608925274d4bf06947e",
+    "text": "(4) Az eljárás alá vont egyetemi polgár (hatálya kiterjed az Egyetem valamennyi polgárára) a meghallgatáson személyesen köteles részt venni. Az indokolatlan távolmaradás etikai vétségnek minősül.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2e4845ba4635e439c479ecf4f772b4dc",
+    "text": "(5) Magasabb vezető (Egyetem magasabb vezető, vezető), vezető (Egyetem magasabb vezető, vezető), továbbá a testület választott tisztségviselője elleni vizsgálat eredményéről a rektort, illetve az adott testület elnökét írásban tájékoztatni kell.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3617086d91afc46178b83f041bbf4a19",
+    "text": "(6) A rosszhiszemű, vagy nyilvánvalóan alaptalan bejelentés esetén a bizottság a bejelentővel szemben folytat le etikai eljárást.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "da11e90834536741892b0f1748781ce8",
+    "text": "Szankciók alkalmazása",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8c723d626ceb29e817a0ccaf03642a5f",
+    "text": "(1) A bizottság csak akkor alkalmazhat bármilyen, a bepanaszoltnak hátrányt okozó intézkedést, ha az etikai vétség elkövetése kétséget kizáróan bizonyított.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b8ca333bbb62e15a3110b5b11ca891ea",
+    "text": "(2) A bizottság szankció alkalmazása nélkül megszünteti az etikai eljárást, ha:",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "be1d4ee83cadef46c96dfca5b129285d",
+    "text": "a) a bejelentésben megjelölt magatartás nem minősül etikai vétségnek;",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d43dbe5614c4f8c6a7a96af4bb59f474",
+    "text": "b) a bepanaszoltnak az Egyetemmel fennálló jogviszonya az etikai eljárás alatt megszűnt.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "880a37f49e8d274e1ea7772948dfdc51",
+    "text": "(3) Amennyiben a bizottság a bejelentésben megjelölt erkölcsi normasértést bizonyítottnak találja, határozati formában az alábbi szankciók alkalmazásáról dönthet:",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1663ee250a0b3ca3300e9111f5e2f698",
+    "text": "a) írásbeli figyelmeztetés;",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffc7a667bb2018bfa1906dfb42194c6e",
+    "text": "b) javaslat a vezetői/magasabb vezetői megbízás visszavonására;",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a4ee74434737a97b75b09341a4140662",
+    "text": "c) testületi tag esetén javaslat a választó közösségnek a választott polgár visszahívására vagy a megbízás visszavonására;",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "18ea4d44e07e26fd5203ccc7c03a8d5f",
+    "text": "d) a normasértésnek megfelelő természetű, erkölcsi elégtétel, amely lehet nyilvános bocsánatkérés, helyreigazítás. Amennyiben írásban történt a normasértés, úgy a helyreigazításnak is írásban kell történnie, és a nyilvánosságot itt is biztosítani kell;",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c0161be7aa718835ba50352a37890b0f",
+    "text": "e) szintén a normasértés természetéhez illeszkedően, valamilyen előny, elégtétel biztosítása a sértett számára.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ef996b7440f26e09b5000c90e9194c7c",
+    "text": "(4) A bizottság fegyelmi eljárást kezdeményez, amennyiben az etikai normasértéssel együtt fegyelmi vétség gyanúja is felmerül, illetve büntető vagy szabálysértési feljelentésre hívja fel a rektort, ha az etikai normasértés egyúttal bűncselekmény vagy szabálysértés gyanújára ad alapot. Amennyiben az ügyben fegyelmi, büntető vagy szabálysértési eljárás indul, azok jogerős befejezéséig az etikai eljárást fel kell függeszteni, majd a cselekmény érdemi elbírálását követően meg kell szüntetni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "270ff4ab96d4021e78a6c2311280fe5a",
+    "text": "(5) A döntést a bizottsági ülésen jelenlévő bejelentővel, sértettel és bepanaszolttal haladéktalanul szóban kell ismertetni, majd 8 napon belül írásba kell foglalni, és az érdekelteknek igazolható módon (személyes átadással, tértivevényes levélben) kézbesíteni. Amennyiben az Etikai Bizottság állásfoglalását az előbbiek tudomásul veszik, megtörténik a szankciók végrehajtása.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d376a83f8bfeae90a287499f53dce64c",
+    "text": "(6) Az Etikai Kódexben foglalt rendelkezések súlyos vagy ismételt megszegése esetén a Bizottság az eljárás alá vont személy munkaviszonyának felmondás – külön meghatározott esetben rendkívüli felmondás – útján történő megszüntetésre tehet javaslatot a rektor felé.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "75428b9a48aefa1ef4245a5cd8595e20",
+    "text": "Jogorvoslati jog",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f55fe4100d78a5cadf60bc2eed470aba",
+    "text": "(1)A bizottság döntése ellen jogorvoslatot lehet kezdeményezni a rektornál. Jogorvoslati kérelemmel élhet:",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "52e452db61c09ce8fae372b93368e69b",
+    "text": "a) az eljárás alá vont,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a1bd779c72c836b86ed3ebbf5dd9421c",
+    "text": "b) a panaszos,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "65c0e729f7cb4da2e33b3178a6e55cc2",
+    "text": "c) a bejelentő.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "961e66a6a9a5bb38bc2443d76d19cccf",
+    "text": "(2) A jogorvoslati kérelmet az írásbeli határozat kézhezvételétől számított nyolc munkanapon belül a rektornak címezve, de a bizottságnál írásban benyújtva lehet előterjeszteni. A beadványban meg kell jelölni azokat az indokokat, amelyek alapján a kérelmező a döntés megváltoztatását kéri.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cbe395a8fb006895a14e6c03a92db22e",
+    "text": "(3) Az elbírálás után a rektor az alábbi döntéseket hozhatja:",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "adaa33ab56f70644cc66ff08f6a0cbdf",
+    "text": "a) megállapíthatja az első fokú határozat megalapozottságát, és azt helyben hagyja,",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fc34a5f8f26d506084082e10f39ac012",
+    "text": "b) amennyiben az első fokú határozatot nem találja megalapozottnak, hatályon kívül helyezi és megszünteti az eljárást, vagy megváltoztatja a határozatot",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9ab34f24f99f6e47f24c2793d7a8be37",
+    "text": "c) hatályon kívül helyezi a határozatot, és új eljárás lefolytatását rendeli el.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e05cc63a53181d21d7bc139506b838c3",
+    "text": "(4) A (3) bekezdés szerinti határozattal szemben az Egyetemen belül további jogorvoslatra nincs lehetőség.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "79cefb2ae25b78e68825cbd3ab2423e1",
+    "text": "VIII. ZÁRÓ ÉS HATÁLYBA LÉPTETŐ RENDELKEZÉSEK",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a621b1bf904a75fa9b0a6fbbb4bc23f6",
+    "text": "(1) Az etikai eljárás során keletkezett iratokat a Rektori Kabinet kézi irattárában kell elhelyezni, és bizalmasan kell kezelni.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "34c371dc2fc545c3c912a67fb2954f1c",
+    "text": "(2) Az Etikai kódexet a Szenátus 2025. április 30. napján a 27/2025. (IV.30.) sz. határozatával fogadta el és az 2025. május hó 1. napján lép hatályba",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8eaed87bbf1ed1ff1dc8938c20cc4643",
+    "text": "Az elfogadott szabályzatot az egyetem (Eszterházy Károly Katolikus Egyetem) honlapján a helyben szokásos módon közzé kell tenni. Az új dolgozók belépésekor, illetve a hallgatói beiratkozást követően az Etikai Kódex (Etikai Kódex) elérési útvonalát az illetékes HR munkatárs, illetve az Oktatási Igazgatóság illetékes munkatársa megosztja az érintettekkel.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "641a5021651840eec60f9790e8054255",
+    "text": "Eger, 2025. április 30.",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3a7941db16434a57036c8c2052bdb1fe",
+    "text": "Dr. Pajtókné Dr. Tari Ilona Dr. Novák István",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1ea5fe422c09ecd75ed735791c3651c7",
+    "text": "rektor delegált általános rektorhelyettes",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a85c5a5db8a08ec62197485ef7682d8d",
+    "text": "az Etikai Bizottság elnöke",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2020270eec0936e72443533486ce040d",
+    "text": "Az Egri Főegyházmegye képviseletében jóváhagyom:",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "01da8a45930ff5f6c5a419d16f00c279",
+    "text": "Eger, 2025. _________________",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b41e9c9ed75aafc9f203d80e14c2501a",
+    "text": "_________________________",
+    "metadata": {
+      "languages": [
+        "hun"
+      ],
+      "file_directory": "/home/toth-dorina-ildiko/GitHub/document_converter/word/output/markdown",
+      "filename": "Etikai kódex 20250501.md",
+      "filetype": "text/markdown",
+      "last_modified": "2025-07-21T10:16:51"
+    }
+  }
+]
