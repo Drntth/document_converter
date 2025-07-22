@@ -1,5 +1,6 @@
 import os
 from typing import Dict
+
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -58,11 +59,12 @@ SUPPORTED_EXTENSIONS = {".pdf", ".docx"}
 # Dinamikus fájlútvonal-generálás
 def get_paths_for_file(input_file: str) -> Dict[str, str]:
     """
-    Generál egy szótárt a bemeneti fájlhoz tartozó kimeneti fájlútvonalakkal,
-    a bemeneti fájl nevéből származtatva a kimeneti neveket.
+    Generál egy szótárt a bemeneti fájlhoz tartozó kimeneti fájlútvonalakkal.
+
+    A bemeneti fájl nevéből származtatja a kimeneti fájlok neveit.
 
     Args:
-        input_file: A bemeneti fájl elérési útja (pl. 'input/doc1.docx').
+        input_file (str): A bemeneti fájl elérési útja (pl. 'input/doc1.docx').
 
     Returns:
         Dict[str, str]: A fájlútvonalak szótára, amely kompatibilis a PATHS kulcsokkal.
@@ -79,8 +81,7 @@ def get_paths_for_file(input_file: str) -> Dict[str, str]:
             'abbreviations_output': 'output/postprocessing/doc1_abbreviations.json',
         }
     """
-    # Kinyerjük a fájl nevét kiterjesztés nélkül
-    file_name = os.path.splitext(os.path.basename(input_file))[0]
+    file_name: str = os.path.splitext(os.path.basename(input_file))[0]
 
     return {
         "input_pdf": os.path.join(INPUT_DIR, f"{file_name}.pdf"),

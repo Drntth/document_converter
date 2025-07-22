@@ -1,19 +1,22 @@
 """
-A parancssori belépési pont a dokumentumfeldolgozó pipeline-hoz.
-Ez a modul kezeli az argumentumokat, naplózást és a pipeline indítását.
+Parancssori belépési pont a dokumentumfeldolgozó pipeline-hoz.
+
+Ez a modul kezeli a parancssori argumentumokat, a naplózást és a pipeline indítását.
 """
 
 import argparse
-from core.pipeline import process_pipeline
+
 from config.logging_config import structlog_logger
+from core.pipeline import process_pipeline
 from services.file_service import clear_directories
 
 logger = structlog_logger
 
 
-def parse_args():
+def parse_args() -> argparse.Namespace:
     """
     Feldolgozza a parancssori argumentumokat.
+
     Returns:
         argparse.Namespace: A feldolgozott argumentumokat tartalmazó objektum.
     """
@@ -22,28 +25,85 @@ def parse_args():
         description="Dokumentumfeldolgozó pipeline PDF és DOCX fájlokhoz"
     )
     parser.add_argument(
+        "-i",
         "--input",
         help="Bemeneti fájl elérési útja (PDF vagy DOCX formátumú)",
     )
     parser.add_argument(
+        "-id",
         "--input-dir",
         help="Bemeneti mappa elérési útja, amely DOCX vagy PDF fájlokat tartalmaz",
     )
     parser.add_argument(
+        "-s",
         "--steps",
         type=int,
         choices=range(1, 8),
         default=7,
-        help="Futtatandó lépések:\n"
-        "  1: Előfeldolgozás (preprocessing: fejléc, lábléc, tartalomjegyzék, üres sorok/oldalak eltávolítása)\n"
-        "  2: Utófeldolgozás (postprocessing: rövidítések, lábjegyzetek)\n"
-        "  3: Dokumentum (PDF/DOCX) konvertálása Markdown formátumba (Docling)\n"
-        "  4: Markdown fájl feldolgozása JSON formátumba (Unstructured)\n"
-        "  5: JSON tartalom gazdagítása táblázat- és képösszefoglalókkal (OpenAI)\n"
-        "  6: Gazdagított JSON exportálása TXT fájlba\n"
-        "  7: Minden lépés egymás után",
+        help=(
+            "Futtatandó lépések:\n"
+            "  1: Előfeldolgozás (preprocessing: fejléc, lábléc, tartalomjegyzék, üres sorok/oldalak eltávolítása)\n"
+            "  2: Utófeldolgozás (postprocessing: rövidítések, lábjegyzetek)\n"
+            "  3: Dokumentum (PDF/DOCX) konvertálása Markdown formátumba (Docling)\n"
+            "  4: Markdown fájl feldolgozása JSON formátumba (Unstructured)\n"
+            "  5: JSON tartalom gazdagítása táblázat- és képösszefoglalókkal (OpenAI)\n"
+            "  6: Gazdagított JSON exportálása TXT fájlba\n"
+            "  7: Minden lépés egymás után"
+        ),
     )
     parser.add_argument(
+        "-rh",
+        "--remove-headers",
+        action="store_true",
+        default=True,
+        help="Fejlécek eltávolítása a dokumentumból a tisztítás során.",
+    )
+    parser.add_argument(
+        "-rf",
+        "--remove-footers",
+        action="store_true",
+        default=True,
+        help="Láblécek eltávolítása a dokumentumból a tisztítás során.",
+    )
+    parser.add_argument(
+        "-rt",
+        "--remove-toc",
+        action="store_true",
+        default=True,
+        help="Tartalomjegyzék eltávolítása a dokumentumból a tisztítás során.",
+    )
+    parser.add_argument(
+        "-re",
+        "--remove-empty",
+        action="store_true",
+        default=True,
+        help="Üres oldalak és sorok eltávolítása a dokumentumból a tisztítás során.",
+    )
+    parser.add_argument(
+        "-as",
+        "--abbreviation-strategy",
+        type=str,
+        choices=["inline", "section", "none"],
+        default="inline",
+        help="Rövidítések kezelése a dokumentumban. Lehetséges értékek: 'inline', 'section', 'none'.",
+    )
+    parser.add_argument(
+        "-fh",
+        "--footnote-handling",
+        type=str,
+        choices=["remove", "insert", "none"],
+        default="remove",
+        help="Lábjegyzetek kezelése a dokumentumban. Lehetséges értékek: 'remove', 'insert', 'none'.",
+    )
+    parser.add_argument(
+        "-piwa",
+        "--process-images-with-ai",
+        action="store_true",
+        default=True,
+        help="Képek AI általi feldolgozása vagy csak elérési út megjelenítése.",
+    )
+    parser.add_argument(
+        "-c",
         "--clear",
         action="store_true",
         help="Törli az input, output és log mappák tartalmát a pipeline futtatása előtt",
@@ -59,17 +119,21 @@ def parse_args():
 
     logger.info(
         "Argumentumok sikeresen feldolgozva",
-        input=args.input,
-        input_dir=args.input_dir,
-        steps=args.steps,
-        clear=args.clear,
+        extra={
+            "input": args.input,
+            "input_dir": args.input_dir,
+            "steps": args.steps,
+            "clear": args.clear,
+        },
     )
     return args
 
 
-def main():
+def main() -> None:
     """
-    A fő program belépési pontja. Elindítja a pipeline-t a megadott argumentumok alapján.
+    A fő program belépési pontja.
+
+    Elindítja a pipeline-t a megadott argumentumok alapján.
     """
     logger.info("Dokumentumfeldolgozó pipeline indítása")
     try:
@@ -79,13 +143,35 @@ def main():
             clear_directories()
             logger.info("Mappák tartalma sikeresen törölve")
         if args.input:
-            process_pipeline(args.input, args.steps)
+            process_pipeline(
+                args.input,
+                args.steps,
+                is_directory=False,
+                remove_headers=args.remove_headers,
+                remove_footers=args.remove_footers,
+                remove_toc=args.remove_toc,
+                remove_empty=args.remove_empty,
+                abbreviation_strategy=args.abbreviation_strategy,
+                footnote_handling=args.footnote_handling,
+                process_images_with_ai=args.process_images_with_ai,
+            )
             logger.info("Pipeline sikeresen lefutott")
         elif args.input_dir:
-            process_pipeline(args.input_dir, args.steps, is_directory=True)
+            process_pipeline(
+                args.input_dir,
+                args.steps,
+                is_directory=True,
+                remove_headers=args.remove_headers,
+                remove_footers=args.remove_footers,
+                remove_toc=args.remove_toc,
+                remove_empty=args.remove_empty,
+                abbreviation_strategy=args.abbreviation_strategy,
+                footnote_handling=args.footnote_handling,
+                process_images_with_ai=args.process_images_with_ai,
+            )
             logger.info("Pipeline sikeresen lefutott")
-    except Exception as e:
-        logger.error("Hiba történt a pipeline futtatása során", exc_info=e)
+    except Exception as exc:
+        logger.error("Hiba történt a pipeline futtatása során", exc_info=exc)
         raise
 
 

@@ -18,7 +18,7 @@ Ez a projekt egy dokumentumfeldolgozó pipeline, amely képes PDF és DOCX fájl
 
 A parancssori belépési pont. Feladata:
 
-- Argumentumok feldolgozása (`--input`, `--input-dir`, `--steps`, `--clear`)
+- Argumentumok feldolgozása (főbb argumentumok: `--input`, `--input-dir`, `--steps`, `--clear`, valamint további tisztítási és feldolgozási opciók)
 - Naplózás inicializálása
 - Pipeline indítása egy fájlon vagy mappán
 - Könyvtárak törlése igény szerint
@@ -118,9 +118,33 @@ Az egyes feldolgozási lépések konkrét megvalósítása:
 
 ## Futtatás
 
+### Parancssori argumentumok
+
+- `-i`, `--input` - Bemeneti fájl elérési útja (PDF vagy DOCX)
+- `-id`, `--input-dir` - Bemeneti mappa elérési útja
+- `-s`, `--steps` - Futtatandó lépések (1-7, lásd fent)
+- `-c`, `--clear` - Input, output és log mappák törlése futtatás előtt
+- `-rh`, `--remove-headers` - Fejlécek eltávolítása (alapértelmezett: bekapcsolva)
+- `-rf`, `--remove-footers` - Láblécek eltávolítása (alapértelmezett: bekapcsolva)
+- `-rt`, `--remove-toc` - Tartalomjegyzék eltávolítása (alapértelmezett: bekapcsolva)
+- `-re`, `--remove-empty` - Üres oldalak és sorok eltávolítása (alapértelmezett: bekapcsolva)
+- `-as`, `--abbreviation-strategy` - Rövidítések kezelése: `inline`, `section`, `none` (alapértelmezett: `inline`)
+- `-fh`, `--footnote-handling` - Lábjegyzetek kezelése: `remove`, `insert`, `none` (alapértelmezett: `remove`)
+- `-piwa`, `--process-images-with-ai` - Képek AI általi feldolgozása (alapértelmezett: bekapcsolva)
+
+#### Példák
+
 ```bash
+# Alap pipeline futtatás egy fájlon, minden lépéssel, alapértelmezett tisztítási opciókkal
 python main.py --input input/valami.docx --steps 7
-python main.py --input-dir input/ --steps 7
+
+# Mappa feldolgozása, fejlécek és láblécek eltávolítása nélkül
+python main.py --input-dir input/ --steps 7 --remove-headers False --remove-footers False
+
+# Csak előfeldolgozás és markdown konverzió, rövidítések külön szekcióban
+python main.py --input input/valami.docx --steps 3 --abbreviation-strategy section
+
+# Minden mappa törlése futtatás előtt
 python main.py --clear
 ```
 

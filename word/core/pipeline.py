@@ -1,36 +1,37 @@
 """
-A dokumentumfeldolgozó pipeline fő modulja.
+Dokumentumfeldolgozó pipeline fő modulja.
+
 Ez a modul kezeli a teljes feldolgozási folyamatot lépésenként, támogatja a mappák és egyedi fájlok feldolgozását.
 """
 
 import os
 import shutil
 import time
-from typing import Union
 from pathlib import Path
-from tqdm import tqdm
+from typing import Union
 
+import config.settings
+from config.logging_config import structlog_logger
 from core.processing import (
     docling_process_document,
-    unstructured_process_markdown,
     enrich_json,
     export_text_from_enriched_json,
-    preprocess_docx,
     postprocess_input_file,
+    preprocess_docx,
+    unstructured_process_markdown,
 )
 from services.file_service import ensure_directories
-from config.logging_config import structlog_logger
-import config.settings
-from utils.markdown_postprocess import clean_markdown_file
+from tqdm import tqdm
 from utils.image_extract import (
     extract_images_from_docx,
     replace_image_placeholders_with_markdown,
 )
+from utils.markdown_postprocess import clean_markdown_file
 
 
 def process_pipeline(
-    source: Union[str, Path],
-    steps: int,
+    input_path: Union[str, Path],
+    step_count: int,
     is_directory: bool = False,
     remove_headers: bool = True,
     remove_footers: bool = True,
@@ -38,66 +39,78 @@ def process_pipeline(
     remove_empty: bool = True,
     abbreviation_strategy: str = "inline",
     footnote_handling: str = "remove",
+    process_images_with_ai: bool = True,
 ) -> None:
     """
     Dokumentumfeldolgozó pipeline futtatása lépésenként.
 
     Args:
-        source (Union[str, Path]): A bemeneti fájl vagy mappa elérési útja.
-        steps (int): A végrehajtandó lépések száma (1-7).
-        is_directory (bool): Ha True, akkor a source egy mappa, és az összes DOCX/PDF fájlt feldolgozza.
-        remove_headers (bool): Fejlécek eltávolítása.
-        remove_footers (bool): Láblécek eltávolítása.
-        remove_toc (bool): Tartalomjegyzék eltávolítása.
-        remove_empty (bool): Üres oldalak/sorok eltávolítása.
-        abbreviation_strategy (str): Rövidítések kezelése. Lehetséges értékek: "inline", "section", "none".
-        footnote_handling (str): Lábjegyzetek kezelése. Lehetséges értékek: "remove", "insert".
+        input_path (Union[str, Path]): A bemeneti fájl vagy mappa elérési útja.
+        step_count (int): A végrehajtandó lépések száma (1-7).
+        is_directory (bool, optional): Ha True, akkor a bemenet egy mappa, és az összes DOCX/PDF fájlt feldolgozza. Alapértelmezett: False.
+        remove_headers (bool, optional): Fejlécek eltávolítása. Alapértelmezett: True.
+        remove_footers (bool, optional): Láblécek eltávolítása. Alapértelmezett: True.
+        remove_toc (bool, optional): Tartalomjegyzék eltávolítása. Alapértelmezett: True.
+        remove_empty (bool, optional): Üres oldalak/sorok eltávolítása. Alapértelmezett: True.
+        abbreviation_strategy (str, optional): Rövidítések kezelése. Lehetséges értékek: "inline", "section", "none". Alapértelmezett: "inline".
+        footnote_handling (str, optional): Lábjegyzetek kezelése. Lehetséges értékek: "remove", "insert", "none". Alapértelmezett: "remove".
+        process_images_with_ai (bool, optional): Képek AI általi feldolgozása vagy csak elérési út megjelenítése. Alapértelmezett: True.
+
+    Returns:
+        None: Nincs visszatérési érték.
+
     """
     logger = structlog_logger.bind(
-        source=str(source), steps=str(steps), is_directory=is_directory
+        input_path=str(input_path),
+        step_count=str(step_count),
+        is_directory=is_directory,
     )
-    logger.info("Pipeline indítása", steps=str(steps), is_directory=is_directory)
+    logger.info(
+        "Pipeline indítása", step_count=str(step_count), is_directory=is_directory
+    )
 
     ensure_directories()
-    source = Path(source)
+    input_path = Path(input_path)
     if is_directory:
-        if not source.is_dir():
-            logger.error(f"A megadott mappa nem létezik vagy nem mappa: {source}")
+        if not input_path.is_dir():
+            logger.error(f"A megadott mappa nem létezik vagy nem mappa: {input_path}")
             raise NotADirectoryError(
-                f"A megadott mappa nem létezik vagy nem mappa: {source}"
+                f"A megadott mappa nem létezik vagy nem mappa: {input_path}"
             )
 
-        files = list(source.glob("*.[dD][oO][cC][xX]")) + list(
-            source.glob("*.[pP][dD][fF]")
+        doc_files = list(input_path.glob("*.[dD][oO][cC][xX]")) + list(
+            input_path.glob("*.[pP][dD][fF]")
         )
-        if not files:
-            logger.warning(f"Nem található DOCX vagy PDF fájl a mappában: {source}")
+        if not doc_files:
+            logger.warning(f"Nem található DOCX vagy PDF fájl a mappában: {input_path}")
             return
 
-        logger.info(f"Talált fájlok száma a mappában: {len(files)}")
+        logger.info(f"Talált fájlok száma a mappában: {len(doc_files)}")
 
-        for source_file in files:
-            logger.info(f"Feldolgozás kezdése: {source_file}")
+        for file_path in doc_files:
+            logger.info(f"Feldolgozás kezdése: {file_path}")
             process_single_file(
-                source_file,
-                steps,
+                file_path,
+                step_count,
                 remove_headers=remove_headers,
                 remove_footers=remove_footers,
                 remove_toc=remove_toc,
                 remove_empty=remove_empty,
                 abbreviation_strategy=abbreviation_strategy,
                 footnote_handling=footnote_handling,
+                process_images_with_ai=process_images_with_ai,
             )
     else:
         process_single_file(
-            source,
-            steps,
+            input_path,
+            step_count,
             remove_headers=remove_headers,
             remove_footers=remove_footers,
             remove_toc=remove_toc,
             remove_empty=remove_empty,
             abbreviation_strategy=abbreviation_strategy,
             footnote_handling=footnote_handling,
+            process_images_with_ai=process_images_with_ai,
         )
 
 
@@ -110,6 +123,7 @@ def process_single_file(
     remove_empty: bool = True,
     abbreviation_strategy: str = "inline",
     footnote_handling: str = "remove",
+    process_images_with_ai: bool = True,
 ) -> None:
     """
     Egyetlen fájl feldolgozása a pipeline lépéseivel.
@@ -117,36 +131,39 @@ def process_single_file(
     Args:
         source_file (Path): A bemeneti fájl elérési útja.
         steps (int): A végrehajtandó lépések száma (1-7).
-        remove_headers (bool): Fejlécek eltávolítása.
-        remove_footers (bool): Láblécek eltávolítása.
-        remove_toc (bool): Tartalomjegyzék eltávolítása.
-        remove_empty (bool): Üres oldalak/sorok eltávolítása.
-        abbreviation_strategy (str): Rövidítések kezelése.
-        footnote_handling (str): Lábjegyzetek kezelése.
+        remove_headers (bool, optional): Fejlécek eltávolítása. Alapértelmezett: True.
+        remove_footers (bool, optional): Láblécek eltávolítása. Alapértelmezett: True.
+        remove_toc (bool, optional): Tartalomjegyzék eltávolítása. Alapértelmezett: True.
+        remove_empty (bool, optional): Üres oldalak/sorok eltávolítása. Alapértelmezett: True.
+        abbreviation_strategy (str, optional): Rövidítések kezelése. Alapértelmezett: "inline".
+        footnote_handling (str, optional): Lábjegyzetek kezelése. Alapértelmezett: "remove".
+        process_images_with_ai (bool, optional): Képek AI általi feldolgozása vagy csak elérési út megjelenítése. Alapértelmezett: True.
+
+    Returns:
+        None: Nincs visszatérési érték.
+
     """
     logger = structlog_logger.bind(source_file=str(source_file), steps=str(steps))
-    is_docx = source_file.suffix.lower() == ".docx"
-
+    is_docx: bool = source_file.suffix.lower() == ".docx"
     paths = config.settings.get_paths_for_file(str(source_file))
+    total_steps: int = min(steps, 7) if steps != 7 else 6
 
-    total_steps = min(steps, 7) if steps != 7 else 6
     with tqdm(
         total=total_steps,
         desc=f"Dokumentum konverziós lépések: {source_file.name}",
         unit="lépés",
     ) as pbar:
         try:
-            start_pipeline_time = time.time()
-            processed_file = source_file
-
-            start_time = time.time()
+            start_pipeline_time: float = time.time()
+            processed_file: Path = source_file
+            start_time: float = time.time()
             logger.info("Biztonsági mentés készítése indítása", step="0")
 
             if not source_file.exists():
                 logger.error(f"Forrásfájl nem található: {source_file}")
                 raise FileNotFoundError(f"Forrásfájl nem található: {source_file}")
 
-            backup_file = os.path.join(
+            backup_file: str = os.path.join(
                 config.settings.BACKUP_DIR,
                 f"{source_file.stem}_backup{source_file.suffix}",
             )
@@ -173,7 +190,9 @@ def process_single_file(
 
             # Képek kimentése a backup után, preprocess előtt
             if is_docx:
-                images_dir = Path(config.settings.OUTPUT_IMAGES) / source_file.stem
+                images_dir: Path = (
+                    Path(config.settings.OUTPUT_IMAGES) / source_file.stem
+                )
                 extract_images_from_docx(source_file, images_dir)
 
             if steps >= 1 or steps == 7:
@@ -241,10 +260,8 @@ def process_single_file(
                     step="3",
                 )
 
-                markdown_file = docling_process_document(processed_file)
-
+                markdown_file: str = docling_process_document(processed_file)
                 clean_markdown_file(markdown_file)
-
                 replace_image_placeholders_with_markdown(
                     Path(markdown_file), source_file.stem
                 )
@@ -301,7 +318,11 @@ def process_single_file(
                         f"JSON fájl nem található: {output_json_file}"
                     )
 
-                enrich_json(str(source_file), output_json_file)
+                enrich_json(
+                    source_file=str(source_file),
+                    input_json_path=output_json_file,
+                    process_images_with_ai=process_images_with_ai,
+                )
 
                 logger.info(
                     "Lépés 5: JSON tartalom gazdagítása táblázat- és képösszefoglalókkal befejeződött",

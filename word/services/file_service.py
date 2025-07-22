@@ -2,27 +2,29 @@
 Fájl- és könyvtárkezelő segédfüggvények, validációk, strukturált JSON mentés és naplózás támogatása.
 """
 
-import os
 import json
+import os
 import shutil
-from typing import List, Dict, Union
 from pathlib import Path
-from config.settings import (
-    INPUT_DIR,
-    BACKUP_DIR,
-    OUTPUT_DIR,
-    OUTPUT_MARKDOWN,
-    OUTPUT_JSON,
-    POSTPROCESSING_DIR,
-    OUTPUT_IMAGES,
-    SUPPORTED_EXTENSIONS,
-    LOGS_DIR,
-)
+from typing import Dict, List, Union
+
 from config.logging_config import structlog_logger
+from config.settings import (
+    BACKUP_DIR,
+    INPUT_DIR,
+    LOGS_DIR,
+    OUTPUT_DIR,
+    OUTPUT_IMAGES,
+    OUTPUT_JSON,
+    OUTPUT_MARKDOWN,
+    POSTPROCESSING_DIR,
+    SUPPORTED_EXTENSIONS,
+)
 
 
 def ensure_directories() -> None:
-    """Létrehozza a szükséges könyvtárakat, ha még nem léteznek.
+    """
+    Létrehozza a szükséges könyvtárakat, ha még nem léteznek.
 
     A függvény ellenőrzi és létrehozza az alábbi könyvtárakat:
         - INPUT_DIR: Bemeneti könyvtár
@@ -31,7 +33,10 @@ def ensure_directories() -> None:
         - OUTPUT_JSON: JSON kimenetek könyvtára
         - BACKUP_DIR: Biztonsági mentések könyvtára
         - POSTPROCESSING_DIR: Utófeldolgozási könyvtár
-        - LOG_DIR: Log könyvtár
+        - LOGS_DIR: Log könyvtár
+
+    Returns:
+        None
 
     Raises:
         OSError: Ha a könyvtárak létrehozása sikertelen.
@@ -63,12 +68,16 @@ def ensure_directories() -> None:
 
 
 def clear_directories() -> None:
-    """Törli az input, output és log mappák tartalmát.
+    """
+    Törli az input, output és log mappák tartalmát.
 
     A függvény törli a mappák tartalmát:
-    - INPUT_DIR
-    - OUTPUT_DIR (beleértve OUTPUT_MARKDOWN és OUTPUT_JSON almappákat)
-    - LOGS_DIR
+        - INPUT_DIR
+        - OUTPUT_DIR (beleértve OUTPUT_MARKDOWN és OUTPUT_JSON almappákat)
+        - LOGS_DIR
+
+    Returns:
+        None
 
     Raises:
         OSError: Ha a fájlok vagy mappák törlése sikertelen.
@@ -110,21 +119,22 @@ def clear_directories() -> None:
 
 
 def validate_document(source_file: Union[str, Path]) -> None:
-    """Ellenőrzi a dokumentumfájl létezését és formátumát.
+    """
+    Ellenőrzi a dokumentumfájl létezését és formátumát.
 
     A függvény két alapvető ellenőrzést végez:
-    1. A fájl fizikai létezésének ellenőrzése a fájlrendszerben
-    2. A fájl kiterjesztésének ellenőrzése a támogatott formátumok listája (config.SUPPORTED_EXTENSIONS)
-       alapján (kis- és nagybetű érzéketlen összehasonlítás)
+        1. A fájl fizikai létezésének ellenőrzése a fájlrendszerben.
+        2. A fájl kiterjesztésének ellenőrzése a támogatott formátumok listája (config.SUPPORTED_EXTENSIONS) alapján (kis- és nagybetű érzéketlen összehasonlítás).
 
     Args:
-        source_file (Union[str, Path]): Az ellenőrizendő fájl elérési útja.
-            Stringként vagy pathlib.Path objektumként is megadható.
+        source_file (Union[str, Path]): Az ellenőrizendő fájl elérési útja. Stringként vagy pathlib.Path objektumként is megadható.
+
+    Returns:
+        None
 
     Raises:
         FileNotFoundError: Ha a fájl nem található a megadott elérési úton.
-        ValueError: Ha a fájl kiterjesztése nem szerepel a támogatott formátumok
-            listájában (config.SUPPORTED_EXTENSIONS).
+        ValueError: Ha a fájl kiterjesztése nem szerepel a támogatott formátumok listájában (config.SUPPORTED_EXTENSIONS).
 
     Notes:
         - A támogatott fájlformátumokat a config.SUPPORTED_EXTENSIONS listában kell meghatározni.
@@ -154,7 +164,16 @@ def validate_document(source_file: Union[str, Path]) -> None:
 
 
 def write_json(data: List[Dict], output_path: str) -> None:
-    """JSON adatokat ír fájlba."""
+    """
+    JSON adatokat ír fájlba.
+
+    Args:
+        data (List[Dict]): A kiírandó adatok listája.
+        output_path (str): A kimeneti JSON fájl elérési útja.
+
+    Returns:
+        None
+    """
     logger = structlog_logger.bind(function="write_json")
     output_path = Path(output_path)
 
@@ -179,12 +198,12 @@ def save_abbreviations(abbreviations: Dict[str, str], path: str) -> None:
     """
     Rövidítésszótár mentése JSON fájlba.
 
-    :param abbreviations: A rövidítések szótára.
-    :type abbreviations: Dict[str, str]
-    :param path: A fájl elérési útja.
-    :type path: str
-    :return: Nincs visszatérési érték.
-    :rtype: None
+    Args:
+        abbreviations (Dict[str, str]): A rövidítések szótára.
+        path (str): A fájl elérési útja.
+
+    Returns:
+        None
     """
 
     logger = structlog_logger.bind(

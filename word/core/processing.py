@@ -3,46 +3,59 @@ Feldolgozási logika: dokumentum előfeldolgozás, konverzió, gazdagítás, exp
 Minden lépés külön függvényben, abszolút importokkal, PEP 257 docstringekkel.
 """
 
-import os
 import json
+import os
 import time
-from pathlib import Path
-from docling.document_converter import DocumentConverter
-from unstructured.partition.auto import partition
 from concurrent.futures import ThreadPoolExecutor
-from typing import Dict
-from docx import Document
 from functools import partial
+from pathlib import Path
+from typing import Dict
+
 import config.settings
 from config.logging_config import structlog_logger
-from services.file_service import validate_document, write_json, save_abbreviations
-from processing.enrichment import summarize_table, summarize_image
-from processing.preprocessor import (
-    remove_empty_pages,
-    remove_toc_by_xml,
-    remove_toc_by_field,
-    remove_toc_by_paragraphs,
-    remove_toc_by_text,
-    remove_toc_by_table,
-)
+from docling.document_converter import DocumentConverter
+from docx import Document
+from processing.enrichment import summarize_image, summarize_table
 from processing.postprocessor import (
     extract_abbreviations,
     insert_abbreviations,
+    insert_footnotes,
     prepend_abbreviation_section,
     remove_abbreviation_phrases,
     remove_footnote_references,
-    insert_footnotes,
 )
+from processing.preprocessor import (
+    remove_empty_pages,
+    remove_toc_by_field,
+    remove_toc_by_paragraphs,
+    remove_toc_by_table,
+    remove_toc_by_text,
+    remove_toc_by_xml,
+)
+from services.file_service import save_abbreviations, validate_document, write_json
+from unstructured.partition.auto import partition
 
 
 def preprocess_docx(
     source_file: Path,
-    remove_headers,
-    remove_footers,
-    remove_toc,
-    remove_empty,
+    remove_headers: bool,
+    remove_footers: bool,
+    remove_toc: bool,
+    remove_empty: bool,
 ) -> Path:
-    """Fő előfeldolgozó függvény választható lépésekkel"""
+    """
+    Fő előfeldolgozó függvény választható lépésekkel.
+
+    Args:
+        source_file (Path): A bemeneti dokumentum elérési útja.
+        remove_headers (bool): Fejlécek eltávolítása.
+        remove_footers (bool): Láblécek eltávolítása.
+        remove_toc (bool): Tartalomjegyzék eltávolítása.
+        remove_empty (bool): Üres oldalak/sorok eltávolítása.
+
+    Returns:
+        Path: Az előfeldolgozott dokumentum elérési útja.
+    """
 
     logger = structlog_logger.bind(source_file=source_file)
     start_time = time.time()
@@ -158,19 +171,21 @@ def preprocess_docx(
 
 
 def postprocess_input_file(
-    source_file: Path, abbreviation_strategy, footnote_handling
+    source_file: Path, abbreviation_strategy: str, footnote_handling: str
 ) -> Path:
-    """Dokumentum utófeldolgozása a preprocess után, mely tartalmazza:
-    - Rövidítések kezelését
-    - Lábjegyzetek kezelését
+    """
+    Dokumentum utófeldolgozása a preprocess után.
+
+    A művelet tartalmazza a rövidítések és lábjegyzetek kezelését.
 
     Args:
-        source_file: Path to the document file.
-        abbreviation_strategy: Strategy for handling abbreviations.
-        footnote_handling: Strategy for handling footnotes.
+        source_file (Path): A dokumentum elérési útja.
+        abbreviation_strategy (str): Rövidítések kezelési stratégia.
+        footnote_handling (str): Lábjegyzetek kezelési stratégia.
 
     Returns:
-        A feldolgozott Document objektum"""
+        Path: A feldolgozott dokumentum elérési útja.
+    """
     logger = structlog_logger.bind(source_file=str(source_file))
     logger.info("Utófeldolgozás indítása", context={"source_file": str(source_file)})
 
@@ -224,10 +239,10 @@ def docling_process_document(source_file: str) -> str:
     Feldolgoz egy dokumentumot Markdown formátumba a Docling segítségével.
 
     Args:
-        source_file: A bemeneti fájl elérési útja (PDF vagy DOCX).
+        source_file (str): A bemeneti fájl elérési útja (PDF vagy DOCX).
 
     Returns:
-        A generált Markdown fájl elérési útja.
+        str: A generált Markdown fájl elérési útja.
 
     Raises:
         FileNotFoundError: Ha a fájl nem található.
@@ -279,9 +294,12 @@ def unstructured_process_markdown(
     Markdown fájlt JSON formátumba konvertál az Unstructured könyvtár segítségével.
 
     Args:
-        markdown_file: A bemeneti Markdown fájl elérési útja.
-        output_json_file: A kimeneti JSON fájl elérési útja.
-        strategy: Feldolgozási stratégia (alapértelmezett: 'auto').
+        source_file (str): Az eredeti dokumentum elérési útja.
+        markdown_file (str): A bemeneti Markdown fájl elérési útja.
+        strategy (str, optional): Feldolgozási stratégia. Alapértelmezett: 'auto'.
+
+    Returns:
+        None
     """
     logger = structlog_logger.bind(input_file=markdown_file)
     start_time = time.time()
@@ -310,13 +328,19 @@ def unstructured_process_markdown(
     )
 
 
-def enrich_json(source_file: str, input_json_path: str) -> None:
+def enrich_json(
+    source_file: str, input_json_path: str, process_images_with_ai: bool
+) -> None:
     """
     JSON tartalom gazdagítása táblázat- és képösszefoglalókkal.
 
     Args:
-        input_json_path: Bemeneti JSON fájl elérési útja.
-        output_json_path: Kimeneti JSON fájl elérési útja.
+        source_file (str): Az eredeti dokumentum elérési útja.
+        input_json_path (str): Bemeneti JSON fájl elérési útja.
+        process_images_with_ai (bool): Képek AI általi feldolgozása.
+
+    Returns:
+        None
     """
     logger = structlog_logger.bind(input_file=input_json_path)
     start_time = time.time()
@@ -348,7 +372,11 @@ def enrich_json(source_file: str, input_json_path: str) -> None:
                 element_logger.debug(
                     "Táblázat összefoglalva", context={"element_type": element["type"]}
                 )
-            elif element["type"] == "Image" and "image_url" in element["metadata"]:
+            elif (
+                process_images_with_ai
+                and element["type"] == "Image"
+                and "image_url" in element["metadata"]
+            ):
                 element["metadata"]["image_description"] = summarize_image(
                     element["metadata"]["image_url"]
                 )
@@ -379,8 +407,11 @@ def export_text_from_enriched_json(source_file: str, enriched_json_path: str) ->
     Szöveg exportálása gazdagított JSON-ból TXT fájlba.
 
     Args:
-        enriched_json_path: Bemeneti JSON fájl elérési útja.
-        output_txt_path: Kimeneti TXT fájl elérési útja.
+        source_file (str): Az eredeti dokumentum elérési útja.
+        enriched_json_path (str): Bemeneti gazdagított JSON fájl elérési útja.
+
+    Returns:
+        None
     """
 
     logger = structlog_logger.bind(input_file=enriched_json_path)

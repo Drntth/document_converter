@@ -82,7 +82,8 @@ python-dateutil==2.9.0.post0
 python-docx==1.2.0
 python-dotenv==1.1.1
 python-iso639==2025.2.18
-python-magic==0.4.27
+python-magic==0.4.27 # Linux/Ubuntu only
+# python-magic-bin==0.4.14 # Windows only
 python-oxmsg==0.0.2
 python-pptx==1.0.2
 pytz==2025.2

@@ -4,9 +4,9 @@ Tartalmazza a tartalomjegyzék, üres oldalak, fejléc/lábléc eltávolításá
 """
 
 import re
+
 from docx import Document
 from docx.oxml.ns import qn
-
 
 # Előfeldolgozás segédfüggvények
 
@@ -45,7 +45,7 @@ def remove_empty_pages(doc: Document, logger, remove_empty: bool = True) -> int:
     Args:
         doc (Document): A Word dokumentum objektum.
         logger: Logger objektum.
-        remove_empty (bool): Ha True, eltávolítja az üres oldalakat.
+        remove_empty (bool, optional): Ha True, eltávolítja az üres oldalakat. Alapértelmezett: True.
 
     Returns:
         int: Az eltávolított üres oldalak száma.

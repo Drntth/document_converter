@@ -1,16 +1,19 @@
-from pathlib import Path
-from docx import Document
-from config.logging_config import structlog_logger
 import re
+from pathlib import Path
+
+from config.logging_config import structlog_logger
+from docx import Document
 from docx.oxml.ns import qn
 
 
 def extract_images_from_docx(source_file: Path, output_dir: Path) -> int:
     """
     Képek kimentése DOCX-ből az output_dir mappába, placeholder beszúrásával (XML szinten is).
+
     Args:
         source_file (Path): A bemeneti DOCX fájl.
         output_dir (Path): A képek célmappája.
+
     Returns:
         int: Kimentett képek száma.
     """
@@ -71,9 +74,13 @@ def extract_images_from_docx(source_file: Path, output_dir: Path) -> int:
 def replace_image_placeholders_with_markdown(md_file: Path, docname: str) -> None:
     """
     A Markdown fájlban a [IMAGE: ...] placeholdert ![IMAGE](relatív/út) formátumra cseréli.
+
     Args:
         md_file (Path): A Markdown fájl elérési útja.
         docname (str): A dokumentum neve (kép mappa neve).
+
+    Returns:
+        None
     """
     with open(md_file, "r", encoding="utf-8") as f:
         content = f.read()

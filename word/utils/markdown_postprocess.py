@@ -1,6 +1,6 @@
 """
-Markdown postprocess utility functions for cleaning and normalizing markdown output before further processing (e.g. with Unstructured).
-Handles tables, code blocks, headings, lists, and whitespace normalization.
+Markdown utófeldolgozó segédfüggvények a markdown kimenet tisztításához és normalizálásához további feldolgozás előtt (pl. Unstructured használata esetén).
+Kezeli a táblázatokat, kódrészleteket, címsorokat, listákat és a felesleges üres sorokat.
 """
 
 import re
@@ -8,11 +8,13 @@ import re
 
 def fix_markdown_tables(lines):
     """
-    Ensures that markdown tables are surrounded by blank lines and have correct syntax.
+    Gondoskodik arról, hogy a markdown táblázatok körül üres sorok legyenek, és a szintaxis helyes legyen.
+
     Args:
-        lines (list of str): Lines of the markdown file.
+        lines (list[str]): A markdown fájl sorai.
+
     Returns:
-        list of str: Modified lines.
+        list[str]: A módosított sorok listája.
     """
     new_lines = []
     i = 0
@@ -44,11 +46,13 @@ def fix_markdown_tables(lines):
 
 def fix_markdown_headings(lines):
     """
-    Ensures that headings are surrounded by blank lines.
+    Gondoskodik arról, hogy a címsorokat üres sorok vegyék körül.
+
     Args:
-        lines (list of str): Lines of the markdown file.
+        lines (list[str]): A markdown fájl sorai.
+
     Returns:
-        list of str: Modified lines.
+        list[str]: A módosított sorok listája.
     """
     new_lines = []
     for i, line in enumerate(lines):
@@ -65,11 +69,13 @@ def fix_markdown_headings(lines):
 
 def fix_markdown_lists(lines):
     """
-    Ensures that lists are surrounded by blank lines and consecutive lists are not merged with paragraphs.
+    Gondoskodik arról, hogy a listákat üres sorok vegyék körül, és a listák ne olvadjanak össze bekezdésekkel.
+
     Args:
-        lines (list of str): Lines of the markdown file.
+        lines (list[str]): A markdown fájl sorai.
+
     Returns:
-        list of str: Modified lines.
+        list[str]: A módosított sorok listája.
     """
     new_lines = []
     for i, line in enumerate(lines):
@@ -91,11 +97,13 @@ def fix_markdown_lists(lines):
 
 def normalize_markdown_whitespace(lines):
     """
-    Removes excessive blank lines (max 1 consecutive blank line).
+    Eltávolítja a felesleges üres sorokat (legfeljebb 1 egymást követő üres sor marad).
+
     Args:
-        lines (list of str): Lines of the markdown file.
+        lines (list[str]): A markdown fájl sorai.
+
     Returns:
-        list of str: Modified lines.
+        list[str]: A módosított sorok listája.
     """
     new_lines = []
     blank = False
@@ -112,9 +120,13 @@ def normalize_markdown_whitespace(lines):
 
 def clean_markdown_file(md_path):
     """
-    Cleans and normalizes a markdown file in-place using all fixers.
+    Egy markdown fájl tisztítása és normalizálása helyben, minden javító alkalmazásával.
+
     Args:
-        md_path (str): Path to the markdown file.
+        md_path (str): A markdown fájl elérési útja.
+
+    Returns:
+        None
     """
     with open(md_path, "r", encoding="utf-8") as f:
         lines = f.readlines()

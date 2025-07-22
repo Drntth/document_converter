@@ -5,22 +5,26 @@ Rövidítések, lábjegyzetek, beszúrása, eltávolítása.
 
 import re
 import xml.etree.ElementTree as ET
+from typing import Dict, List, Tuple
+
+from config.logging_config import structlog_logger
 from docx import Document
-from docx.shared import Pt, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.opc.constants import RELATIONSHIP_TYPE as RT
-from typing import Dict, List, Tuple
-from config.logging_config import structlog_logger
+from docx.shared import Pt, RGBColor
 
 # Rövidítések kezelése
 
 
 def extract_abbreviations(doc: Document) -> Dict[str, List[str]]:
     """
-    Kinyeri a rövidítéseket és definícióikat a dokumentumból, egy rövidítéshez több definíciót is tárolva.
+    Kinyeri a rövidítéseket és definícióikat a dokumentumból.
 
-    :param doc: Word dokumentum objektum
-    :return: Rövidítés-definíciók szótára, ahol az érték egy definíciók listája
+    Args:
+        doc (Document): Word dokumentum objektum.
+
+    Returns:
+        Dict[str, List[str]]: Rövidítés-definíciók szótára, ahol az érték egy definíciók listája.
     """
     abbreviation_dict: Dict[str, List[str]] = {}
     pattern = re.compile(
@@ -42,8 +46,11 @@ def split_abbreviations(abbrs: str) -> List[str]:
     """
     Feldarabolja a rövidítéseket vessző alapján és tisztítja őket.
 
-    :param abbrs: A rövidítések szövege (vesszővel elválasztva)
-    :return: Tisztított rövidítések listája
+    Args:
+        abbrs (str): A rövidítések szövege (vesszővel elválasztva).
+
+    Returns:
+        List[str]: Tisztított rövidítések listája.
     """
     if not abbrs:
         return []
@@ -60,9 +67,13 @@ def process_abbreviations(
     """
     Feldolgozza a rövidítéseket, figyelembe véve a többes rövidítéseket és több definíciót.
 
-    :param full_text: A definíció teljes szövege
-    :param abbrs: A rövidítések (vesszővel elválasztva)
-    :param abbreviation_dict: A rövidítés-definíciók szótár
+    Args:
+        full_text (str): A definíció teljes szövege.
+        abbrs (str): A rövidítések (vesszővel elválasztva).
+        abbreviation_dict (Dict[str, List[str]]): A rövidítés-definíciók szótár.
+
+    Returns:
+        None
     """
     abbr_list = split_abbreviations(abbrs)
 
@@ -82,9 +93,12 @@ def validate_abbreviation(abbr: str, full_text: str) -> Tuple[bool, str]:
     """
     Ellenőrzi, hogy a rövidítés megfelel-e a definíciónak.
 
-    :param abbr: A rövidítés
-    :param full_text: A definíció teljes szövege
-    :return: (érvényesség, végleges definíció) tuple
+    Args:
+        abbr (str): A rövidítés.
+        full_text (str): A definíció teljes szövege.
+
+    Returns:
+        Tuple[bool, str]: (érvényesség, végleges definíció) tuple.
     """
     definition = normalize_text(full_text)
     words = definition.split()
@@ -99,8 +113,11 @@ def is_uppercase_abbr(abbr: str) -> bool:
     """
     Ellenőrzi, hogy a rövidítés nagybetűs-e vagy rövid nagybetűs forma (pl. MNB, ABCDE).
 
-    :param abbr: A rövidítés
-    :return: Igaz, ha nagybetűs vagy rövid nagybetűs forma
+    Args:
+        abbr (str): A rövidítés.
+
+    Returns:
+        bool: Igaz, ha nagybetűs vagy rövid nagybetűs forma.
     """
     if not abbr:  # Ellenőrizzük, hogy a rövidítés nem üres
         return False
@@ -111,8 +128,11 @@ def is_law_or_decree(text: str) -> bool:
     """
     Ellenőrzi, hogy a szöveg törvényre vagy rendeletre utal-e.
 
-    :param text: A vizsgálandó szöveg
-    :return: Igaz, ha törvényre vagy rendeletre utal
+    Args:
+        text (str): A vizsgálandó szöveg.
+
+    Returns:
+        bool: Igaz, ha törvényre vagy rendeletre utal.
     """
     patterns = [
         r"\d{1,4}/\d{4}\.\s*\([IVXLCDM]+\.\s*\d+\.\)",  # Pl. 87/2015. (IV. 9.)
@@ -127,9 +147,12 @@ def validate_uppercase_abbr(abbr: str, words: List[str]) -> Tuple[bool, str]:
     """
     Validálja a nagybetűs rövidítéseket az iniciálék alapján.
 
-    :param abbr: A rövidítés
-    :param words: A definíció szavai
-    :return: (érvényesség, végleges definíció) tuple
+    Args:
+        abbr (str): A rövidítés.
+        words (List[str]): A definíció szavai.
+
+    Returns:
+        Tuple[bool, str]: (érvényesség, végleges definíció) tuple.
     """
     if not abbr:
         return False, ""
@@ -210,10 +233,12 @@ def validate_lowercase_abbr(abbr: str, words: List[str]) -> Tuple[bool, str]:
     """
     Validálja a kisbetűs rövidítéseket a definíció alapján.
 
-    :param abbr: A rövidítés
-    :param words: A definíció szavai
-    :param debug: Hibakeresési üzenetek kiírása
-    :return: (érvényesség, végleges definíció) tuple
+    Args:
+        abbr (str): A rövidítés.
+        words (List[str]): A definíció szavai.
+
+    Returns:
+        Tuple[bool, str]: (érvényesség, végleges definíció) tuple.
     """
     if not abbr:  # Ellenőrizzük, hogy a rövidítés nem üres
         return False, ""
@@ -273,8 +298,11 @@ def normalize_text(text: str) -> str:
     """
     Normalizálja a szöveget, eltávolítva a magyar prefixeket és suffixeket.
 
-    :param text: A bemeneti szöveg
-    :return: A normalizált szöveg
+    Args:
+        text (str): A bemeneti szöveg.
+
+    Returns:
+        str: A normalizált szöveg.
     """
     prefixes = ["az ", "a ", "Az ", "A "]
     suffixes = [
@@ -319,8 +347,11 @@ def get_hungarian_initial(word: str) -> str:
     """
     Kinyeri a magyar kezdőbetűt, figyelembe véve a digráfokat és trigrafokat.
 
-    :param word: A vizsgálandó szó
-    :return: A kezdőbetű, digráf vagy trigraf
+    Args:
+        word (str): A vizsgálandó szó.
+
+    Returns:
+        str: A kezdőbetű, digráf vagy trigraf.
     """
     if not word:
         return ""
@@ -344,8 +375,11 @@ def get_adjusted_abbr_len(abbr: str) -> int:
     """
     Kiszámítja a rövidítés egységeinek számát (digráfok/trigrafok figyelembevételével).
 
-    :param abbr: A rövidítés
-    :return: Az egységek száma
+    Args:
+        abbr (str): A rövidítés.
+
+    Returns:
+        int: Az egységek száma.
     """
     abbr = abbr.lower()
     hungarian_trigraphs = ["dzs"]
@@ -373,12 +407,12 @@ def remove_abbreviation_phrases(
     Eltávolítja a '(a továbbiakban: XYZ)' vagy '(továbbiakban XYZ)' részekből a 'továbbiakban' szöveget,
     ha az XYZ rövidítés megtalálható a rövidítések szótárában, de a rövidítést zárójelben megtartja.
 
-    :param doc: A Word dokumentum objektuma.
-    :type doc: Document
-    :param abbreviations: Korábban kinyert rövidítések szótára, ahol a kulcs a rövidítés, az érték a teljes kifejezések listája.
-    :type abbreviations: Dict[str, List[str]]
-    :return: Nincs visszatérési érték.
-    :rtype: None
+    Args:
+        doc (Document): A Word dokumentum objektuma.
+        abbreviations (Dict[str, List[str]]): Korábban kinyert rövidítések szótára, ahol a kulcs a rövidítés, az érték a teljes kifejezések listája.
+
+    Returns:
+        None
     """
     logger = structlog_logger.bind(
         function="remove_abbreviation_phrases",
@@ -427,10 +461,12 @@ def insert_abbreviations(doc: Document, abbr_dict: Dict[str, List[str]]) -> None
     Rövidítések jelentésének beillesztése ott, ahol a rövidítés önállóan szerepel,
     nincs utána zárójeles definíció, és nem része meglévő zárójeles szerkezetnek.
 
-    :param doc: A Word dokumentum objektuma.
-    :param abbr_dict: A rövidítések szótára, ahol a kulcs a rövidítés, az érték a definíciók listája.
-    :param abbr_dict: Dict[str, List[str]]
-    :return: Nincs visszatérési érték.
+    Args:
+        doc (Document): A Word dokumentum objektuma.
+        abbr_dict (Dict[str, List[str]]): A rövidítések szótára, ahol a kulcs a rövidítés, az érték a definíciók listája.
+
+    Returns:
+        None
     """
     logger = structlog_logger.bind(
         function="insert_abbreviations",
@@ -524,9 +560,12 @@ def prepend_abbreviation_section(
     """
     Rövidítések felsorolása a dokumentum elején új bekezdésként, ábécérendben, minden definícióval.
 
-    :param doc: A Word dokumentum objektuma.
-    :param abbr_dict: A rövidítések szótára, ahol a kulcs a rövidítés, az érték a definíciók listája.
-    :return: Nincs visszatérési érték.
+    Args:
+        doc (Document): A Word dokumentum objektuma.
+        abbr_dict (Dict[str, List[str]]): A rövidítések szótára, ahol a kulcs a rövidítés, az érték a definíciók listája.
+
+    Returns:
+        None
     """
     logger = structlog_logger.bind(
         function="prepend_abbreviation_section",
@@ -593,10 +632,11 @@ def remove_footnote_references(doc: Document) -> None:
     """
     Eltávolítja a lábjegyzet hivatkozásokat és szabályos minták alapján a zavaró elemeket.
 
-    :param doc: A Word dokumentum objektuma.
-    :type doc: Document
-    :return: Nincs visszatérési érték.
-    :rtype: None
+    Args:
+        doc (Document): A Word dokumentum objektuma.
+
+    Returns:
+        None
     """
     logger = structlog_logger.bind(
         function="remove_footnote_references", operation="footnote_cleanup"
@@ -628,10 +668,11 @@ def insert_footnotes(doc: Document) -> None:
     """
     Lábjegyzetek tartalmának beillesztése a dokumentumba.
 
-    :param doc: A Word dokumentum objektuma.
-    :type doc: Document
-    :return: Nincs visszatérési érték.
-    :rtype: None
+    Args:
+        doc (Document): A Word dokumentum objektuma.
+
+    Returns:
+        None
     """
 
     logger = structlog_logger.bind(

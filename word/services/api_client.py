@@ -4,11 +4,11 @@ A modul tartalmazza a RAG enrichment lépéseihez szükséges API-hívásokat.
 """
 
 import time
-from tenacity import retry, stop_after_attempt, wait_exponential
-from openai import OpenAI, OpenAIError
-from config.settings import OPENAI_API_KEY, TEXT_MODEL_NAME, IMAGE_MODEL_NAME
 
 from config.logging_config import structlog_logger
+from config.settings import IMAGE_MODEL_NAME, OPENAI_API_KEY, TEXT_MODEL_NAME
+from openai import OpenAI, OpenAIError
+from tenacity import retry, stop_after_attempt, wait_exponential
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
@@ -26,11 +26,14 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 def call_openai_api(prompt: str, system_message: str) -> str:
     """
     Meghívja az OpenAI API-t a megadott prompttal és rendszerüzenettel.
+
     Args:
         prompt (str): A felhasználói prompt.
         system_message (str): A rendszerüzenet.
+
     Returns:
         str: Az OpenAI API válasza.
+
     Raises:
         OpenAIError: Ha az API hívás sikertelen.
     """
@@ -55,8 +58,17 @@ def call_openai_api(prompt: str, system_message: str) -> str:
         raise
 
 
-def call_openai_vision_api(base64_image) -> str:
-    max_attempts = 5
+def call_openai_vision_api(base64_image: str) -> str:
+    """
+    Meghívja az OpenAI Vision API-t egy base64 kódolt képpel.
+
+    Args:
+        base64_image (str): Base64 kódolt képadat.
+
+    Returns:
+        str: Az OpenAI Vision API válasza vagy hibaüzenet.
+    """
+    max_attempts: int = 5
     for attempt in range(1, max_attempts + 1):
         client = OpenAI()
         try:

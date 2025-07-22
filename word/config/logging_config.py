@@ -1,12 +1,13 @@
-import logging
-import sys
-import os
-import structlog
-import re
 import json
-from structlog.stdlib import LoggerFactory
+import logging
+import os
+import re
+import sys
+
+import structlog
+from config.settings import LOGS_DIR, OPENAI_API_KEY
 from dotenv import load_dotenv
-from config.settings import OPENAI_API_KEY, LOGS_DIR
+from structlog.stdlib import LoggerFactory
 
 """Strukturált naplózási konfiguráció JSON kimenettel és napi rotációval.
 
