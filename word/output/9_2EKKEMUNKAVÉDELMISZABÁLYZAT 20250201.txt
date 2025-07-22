@@ -1,6 +1,6 @@
 ESZTERHÁZY KÁROLY KATOLIKUS EGYETEM (Eszterházy Károly Katolikus Egyetem)
 
-A képen az Eszterházy Károly Katolikus Egyetem logója látható, amely egy stilizált épületet ábrázol Eger felirattal és az évszámmal, 1774.
+A képen az Eszterházy Károly Katolikus Egyetem épülete látható, amely Eger városában található. Az egyetem alapításának éve 1774. Az épület arculata jellegzetes barokk stílusú.
 
 MUNKAVÉDELMI SZABÁLYZATA
 
@@ -372,9 +372,9 @@ ESZTERHÁZY KÁROLY KATOLIKUS EGYETEM (Eszterházy Károly Katolikus Egyetem)
 
 FOGLALKOZÁS EGÉSZSÉGÜGYI ORVOSI VIZSGÁLATOK SZABÁLYOZÁSA Munkavédelmi Szabályzat 1. sz. melléklete
 
-A képen egy orvos látható, amint sztetoszkóppal megvizsgálja egy páciens mellkasát.
+A képen egy orvos látható, aki sztetoszkóppal hallgatja a páciens szívét. A páciens férfi, és láthatóan a kivizsgálás folyamatában van.
 
-A képen egy látásvizsgálat jelenete látható. Az orvos egy Snellen-táblát mutat, amelyet a páciens olvas. A táblán különböző méretű betűk vannak a látás élességének tesztelésére.
+A képen egy látásvizsgálat zajlik. Egy orvos vagy optometrista mutat egy látásvizsgáló táblát, amelyen betűk találhatók, miközben egy páciens a tábla felé néz. A páciens valószínűleg próbálja elolvasni a táblán látható betűket.
 
 február 01.
 
@@ -480,7 +480,7 @@ A foglalkozás-egészségügyi szolgálat orvosa a vizsgálatokról nyilvántart
 
 1.sz. táblázat
 
-A meghatározott expozíciók különböző munkakörökben fokozott baleseti veszélyt jelentenek, beleértve a magasban végzett munkát, földalatti bányászati tevékenységeket, tűz- és robbanásveszélyes ipari tevékenységeket, valamint villamos energiával kapcsolatos munkaköröket. Ezen kívül terhelő munkahelyi klímában, például forró vagy hideg környezetben végzett munka is jelentős kockázatot jelenthet. A zaj és rezgések, valamint kémiai kóroki tényezők vagy biológiai veszélyekkel szembeni expozíció is kiemellett szerepel. Az ionizáló sugárzás, mesterséges optikai sugárzás és járványügyi érdekből kiemelt munkakörök, mint az egészségügyi vagy gyermekgondozási területeken végzett tevékenységek, szintén veszélyeket hordoznak. Továbbá, a tüdőfibrózist okozó vagy azbeszt ártalomnak kitett munkakörök is figyelmet igényelnek az építőiparban és más területeken. A huszonkét és hat óra közötti éjszakai műszakban való munkavégzés, valamint a 10 kg feletti kézi tehermozgatás is speciális megfontolást tesz szükségessé. Az ilyen munkakörökben dolgozóknak különös figyelmet kell fordítaniuk a biztonsági előírásokra, hogy megelőzzék az egészségügyi és biztonsági kockázatokat.
+A táblázatban az expozíciók különböző típusaival és azok meghatározásaival kapcsolatban több kategóriát találunk. A fokozott baleseti veszély kategóriába tartozik a 2 m-nél magasabb helyen végzett munka, a földalatti bányászati és mélyfúrási tevékenységek, a tűz- és robbanásveszéllyel járó munkakörök, az erősáramú villamos berendezéseken végzett tevékenységek, feszültség alatti munkák, valamint mozgó munkaeszközök közelében végzett munkák. A terhelő munkahelyi klíma definíciója alapján a munka melegnek minősül, ha a napi középhőmérséklet legalább 1 napig meghaladja a 25 °C-ot, míg hidegnek akkor, ha a hőmérséklet 50%-nál hosszabb ideig nem éri el a +4 °C-ot szabadtéren vagy a +10 °C-ot zárt térben. A zajexpozícióra vonatkozóan a munkakörnyezet zajszintje a 85 dB(A) feletti értéket meghaladva válik problémássá, míg ionizáló sugárzás esetén a tevékenységek során egészségkárosodás kockázatával kell számolni. Mesterséges optikai sugárzásként az UV és IR típusú sugárzásokat, valamint lézereket emelnek ki. A rezgésexpozíció meghatározása szerint a kéz/kar rezgési határértéke 2,5 m/s2, míg az egész testre ható rezgés 0,5 m/s2. Kémiai kóroki tényezők között szerepel minden tevékenység, amely során a munkavállaló veszélyes anyagokkal érintkezik. A járványügyi érdeket képviselő munkakörök a csecsemők és gyermekek ellátásával kapcsolatos munkákat tartalmazzák, továbbá az élelmiszer előállítást és forgalmazást is. Végül, a tüdőfibrózist okozó poroknak, valamint azbeszt ártalomnak kitett munkakörök az építőiparban és mezőgazdaságban találhatóak, míg a biológiai kóroki tényezőkkel érintett munkakörök az egészségügyi és szociális ellátásban, a szennyvízkezelésben, és a hulladékkezelésben zajlanak. Az éjszakai műszakra vonatkozó meghatározás szerint ez a huszonkét és hat óra közötti időszakban végzett munkát jelenti.
 
 Eger, 2025. február 1.
 
@@ -494,7 +494,7 @@ ESZTERHÁZY KÁROLY KATOLIKUS EGYETEM (Eszterházy Károly Katolikus Egyetem)
 
 3300 Eger, Eszterházy tér 1. Munkavédelmi Szabályzat 2. sz. melléklete
 
-A képen egy elsősegély jelet látsz. Ez általában zöld alapon fehér kereszttel ábrázolt, és az "ELSŐSEGÉLY" felirat szerepel rajta. Az ilyen jelzések arra utalnak, hogy a közelben elsősegélynyújtó felszerelés található.
+A képen egy elsősegélynyújtó jelzés látható. A zöld háttér és a fehér kereszt szimbolizálja az elsősegélyt, a felirat pedig azt jelzi, hogy "Elsősegély".
 
 ELSŐSEGÉLYNYÚJTÁSI SZABÁLYZAT
 
@@ -522,7 +522,7 @@ Az elsősegélynyújtás ellenőrzését országosan a Vármegyei Kormányhivata
 
 hívni, illetőleg sürgős szükség esetében erről az Országos Mentőszolgálat mentőállomását értesíteni. Elsősegélynyújtó felszerelés (célját szolgáló gyógyszerek, anyagok és eszközö), készenlétben tartandó mentődobozok:
 
-A megadott adatok szerint különböző nagyságú mentődobozokra van szükség a dolgozók számától függően az MSz 445-68 irányelvek alapján. Az 1-30 dolgozó esetében I. nagyságú mentődoboz szükséges, 31-50 dolgozó esetén II. nagyságú mentődoboz az előírt. Ha 51-100 dolgozó van, akkor III. nagyságú mentődobozra van szükség, míg 101-200 dolgozó esetén IV. nagyságú mentődoboz szükséges.
+A forrásadatok szerint a dolgozók számától függően négy különböző nagyságú mentődoboz került meghatározásra az MSz 445-68 szabvány alapján. Az I. nagyságú mentődoboz a 30 dolgozó esetében, a II. nagyságú mentődoboz a 31-50 dolgozó esetében, a III. nagyságú mentődoboz a 51-100 dolgozó esetében, míg a IV. nagyságú mentődoboz a 101-200 dolgozó esetében javasolt.
 
 Elsősegélynyújtást végző dolgozók névsora épületenként a portán szerepelnek
 
@@ -532,7 +532,7 @@ Eger, 2025. február 1.
 
 gazdasági főigazgató (Gazdasági Főigazgató) ESZTERHÁZY KÁROLY KATOLIKUS EGYETEM (Eszterházy Károly Katolikus Egyetem)
 
-A képen a következő szöveg látható: "3300 EGER, ESZTERHÁZY TÉR 1."
+A képen egy cím látható, amely így szól: "3300 Eger, Eszterházy tér 1." Ez egy cím, valószínűleg egy épület vagy intézmény helyét jelöli Eger városában.
 
 EGYÉNI VÉDŐESZKÖZÖK JUTTATÁSÁNAK SZABÁLYOZÁSA
 
@@ -700,13 +700,11 @@ Jelen szabályzatot ismertetni, illetve egyeztetni kell a munkavállalókkal és
 
 VÉDŐESZKÖZ ÉS/VAGY MUNKARUHA NYILVÁNTARTÓ LAP
 
-Az összefoglaló sajnos nem készíthető el, mivel a táblázatban nem található konkrét adat, amelyet elemezhetnék. Csak oszlopfejlécek láthatók, de nincsenek kitöltve a munkavállaló neve, beosztása, törzsszáma, munkahelyének megnevezése, nyilvántartás kezdete, a kiadás időpontja, a védőeszköz, munka- és formaruha megnevezése, a lejárat/kihordás ideje, valamint az átvétel igazolása. Amennyiben rendelkezésre állnak ezek az adatok, kérjük, ossza meg, hogy pontos és teljes összefoglalót készíthessek.
+A rendelkezésre álló adatok alapján a munkavállalók nevei, beosztásaik, törzsszámaik, munkahelyük megnevezése, a nyilvántartás kezdete, a kiadás időpontja, a védőeszköz, munka- és formaruha megnevezése, a lejárat vagy kihordás ideje, valamint az átvétel igazolása szerepelnek a forrás dokumentumban. A konkrét adatokat, mint például neveket, számokat és időpontokat azonban nem lehetett megadni, mivel az információk hiányosak. Az összetett táblázati struktúra nélkülöz minden részletet, így ezen információk kiértékelésére nem volt lehetőség.
 
 A felsorolt védőeszközök szabályos használatáról oktatásban részesültem, melynek tényét aláírásommal elismerem. EGYÉNI VÉDŐESZKÖZÖK MEGHATÁROZÁSA MUNKAKÖRÖNKÉNT
 
-A rendelkezésre álló adatok szerint a védelmi rendszerek különféle kategóriákra oszlanak, beleértve a fejvédelmet, kézvédő eszközöket, védőruhákat, lábvédelmet, légzésvédelmet, valamint szem- és arcvédelmet is. A fejvédelem kategóriájában szerepel egy füles téli sapka munkaruhaként megnevezve. A kézvédő eszközök között található egy munkakesztyű, mely bőr anyagából készült, és megfelel az MSZ EN 420 és MSZ EN 388 szabványoknak, a védelmi képessége 2111-es jelölésű. A testvédelmi eszközök között többféle védőruha szerepel, mint például egy két részes munkaruha, különféle pólók és kabátok, amelyek munkaruhaként funkcionálnak. A védelmi kategória ezen eszközöknél általában 1-es, vizsgálati szabvány ezeknél nem minden esetben van megadva. A lábvédelem kategóriában említenek egy univerzális munkacsizmát és egy bőr félcipőt, mindkettő esetében különböző MSZ EN szabványok szerepelnek vizsgálati standardként. Légzésvédelem terén az FFP1S légzőkészülék említhető, amely az EN 149:2001 szabványnak felel meg. Végül a szem- és arcvédelem kapcsán egy kézi hegesztőpajzs említődik meg, amely hőálló polipropilén alapanyagú.
-
-A foglalkozások között könyvtárosi és irattárosi munkaköröket említenek, és két különböző munkatevékenység, például alkalmankénti ívhegesztés is meg van jelölve. A védőeszközök és ruházatok mindegyike speciális védelmi képességekkel, különféle szabványoknak megfelelve kerültek meghatározásra.
+A dokumentumban felsorolt védőeszközök különböző kategóriákban szerepelnek, a következő alapvető védelmi irányok szerint: fejvédelem, kézvédő eszközök, lábvédelem, légzésvédelem és testvédelem. A fejvédelem kategóriában megtalálható a füles téli sapka lehajtható fülrésszel, amely munkaruha jellegű. A kézvédő eszközök között szerepel a bőr munkakesztyű, amely megfelel az MSZ EN 420 és MSZ EN 388 szabványoknak, valamint a mechanikai védőkesztyű, mely általában kézsérülés veszélye esetén használatos. A lábvédelem területén a Dunlop univerzális munkacsizma és egy bőr félcipő található, melyek szintén különböző szabványoknak felelnek meg. A légzésvédelem fő eszköze az FFP1S légzőkészülék, amely a szennyezettebb levegőhöz is alkalmas. A testvédelem különböző munkaruha típusokat tartalmaz, mint például köpenyek és esőkabátok, amelyek vízálló anyagból készültek. A munkakörök között könyvtáros és irattáros foglalkozásokat említenek. A szem- és arcvédelmét szolgálja a kézi hegesztőpajzs, amely hőálló polipropilénből készült, valamint a hegesztőkesztyű, amely ívvédő funkcióval bír.
 
 Szempontok az egyéni védőeszköz juttatásával kapcsolatosan
 
@@ -742,17 +740,7 @@ Munkáltató részéről a fentiekben leírtakkal egyetértek:
 
 …………………………………………………… Bíró Andrea Barbara gazdasági főigazgató (Gazdasági Főigazgató)
 
-A képen egy munkaügyi tájékoztató vagy előírás látható, ami az egyéni védőeszköz használatáról szól. 
-
-A fontosabb pontok közé tartozik:
-
-- A védőeszköz használata kötelező.
-- A kiadott védőeszköz a munkáltató tulajdona.
-- A védelmi képességek csökkenése esetén cserére kerül.
-- Az egészség és biztonság megőrzése érdekében baleset kockázatot jelentő tevékenységek esetén a megfelelő védőeszköz használata szükséges.
-- Az eszközöket rendeltetésszerűen és jó állapotban kell tartani.
-
-Az előírás hangsúlyozza a szabályok és utasítások betartásának fontosságát a munkahelyi biztonság és egészség védelme érdekében.
+A képen egy dokumentum látható, amely a munkavédelmi előírásokkal és a védőeszközök használatával kapcsolatos információkat tartalmaz. A szöveg hangsúlyozza a védőeszközök kötelező használatát a munkahelyen, valamint a munkavállalók védelmének fontosságát a balesetek elkerülése érdekében. A dokumentum valószínűleg képzési vagy tájékoztató anyag része.
 
 MUNKAVÉDELEMMEL ÖSSZEFÜGGŐ FONTOSABB JOGSZABÁLYOK JEGYZÉKE
 

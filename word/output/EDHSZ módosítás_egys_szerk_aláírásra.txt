@@ -1,4 +1,4 @@
-A képen az Eszterházy Károly Katolikus Egyetem logója látható. Az épület az intézmény jellegzetes ábrázolása, valamint feltüntetve van az "EGER" felirat és az "1774" évszám is.
+A képen az Eszterházy Károly Katolikus Egyetem logója látható, amely az intézmény épületét és a nevét tartalmazza, valamint az alapítás évét, 1774-et. Az egyetem Eger városában található.
 
 EGYETEMI DOKTORI ÉS HABILITÁCIÓS SZABÁLYZAT
 
@@ -6,7 +6,7 @@ EGYETEMI DOKTORI ÉS HABILITÁCIÓS SZABÁLYZAT
 
 2025.
 
-A dokumentum elkészítésében Dr. Rainer M. János, az EDHT elnöke, Dr. Rákosiné Jakab Éva jogtanácsos, kabinetvezető, valamint Dr. Gortva János, az EDHT titkára vettek részt. Az ellenőrzést Dr. Juhász Tibor, az Eszterházy Károly Katolikus Egyetem tudományos rektorhelyettese, valamint az Egyetemi Doktori és Habilitációs Tanács, a Neveléstudományi Doktori Iskola Tanács és a Történelemtudományi Doktori Iskola Tanács végezte el. A dokumentumot az Eszterházy Károly Katolikus Egyetem Szenátusa a 23/2025. (III.26.) számú határozatával jóváhagyta, és azt az Egri Főegyházmegye, mint fenntartó, elfogadta. A kiadás vonatkozásában az első fejezethez nem társítottak konkrét változás tárgyát és az ahhoz kapcsolódó kiadás dátumát.
+A dokumentum készítője Dr. Rainer M. János, az EDHT elnöke, valamint dr. Rákosiné Jakab Éva jogtanácsos, kabinetvezető, és Dr. Gortva János, az EDHT titkára. Az anyag ellenőrzését Dr. Juhász Tibor, a tudományos rektorhelyettes végezte az Eszterházy Károly Katolikus Egyetemen, ahol a Dokumentum és Habilitációs Tanács, valamint a Neveléstudományi és a Történelemtudományi Doktori Iskola Tanácsai működnek. A dokumentumot az EKKE Szenátus a 23/2025. (III.26.) számú határozatával hagyta jóvá, a fenntartó Egri Főegyházmegye részéről. A kiadás adatai között található, hogy az első fejezet száma és a változás tárgya még nincs megadva, valamint a kiadás dátuma sem szerepel.
 
 Az Eszterházy Károly Katolikus Egyetem (a továbbiakban: EKKE vagy Egyetem) Szenátusa a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.), a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet (a továbbiakban: Vhr.), a doktori iskolákról, a doktori eljárások rendjéről és a habilitációról szóló 387/2012. (XII. 19.) kormányrendelet (Rendelet), valamint az Országos Doktori Tanács javaslatai alapján a doktori képzés és fokozatszerzés részletes szabályait az alábbi módon határozza meg.
 
@@ -950,13 +950,13 @@ DÖK által delegált tagok
 
 Jelentkezési lap doktori képzésre
 
-A táblázat adatai különféle személyes és oktatási információkat tartalmaznak, mint például a név, születési név, születési hely és idő, anyja születési neve, állampolgárság, személyi igazolvány száma, állandó lakcím, értesítési cím, telefonszám, e-mail cím, munkahely neve és címe, valamint beosztás vagy foglalkozás. Az adatok között szerepel továbbá, hogy melyik egyetemen végezte tanulmányait, az oklevél szaka és minősítése, valamint az egyetemi, MA vagy MSc oklevél száma és keltének részletei is megtalálhatók. A nyelvtudás részletezésére is van lehetőség, feltüntetve a nyelv, szint és típus, illetve az oklevél száma és kelte szerint. Az adatok között szerepel a választott doktori iskola, a doktori program, a témavezető neve és munkahelye, a választott téma címe, valamint hogy milyen képzési és finanszírozási formára jelentkezett az egyén. Végül kiderül az is, hogy máshová is pályázott-e doktori iskolába, és szükség esetén a másik doktori iskola megnevezése is része az adatoknak.
+A táblázatban személyes adatok szerepelnek, amelyeket a jelentkezőknek kell megadniuk. Ezek közé tartozik a születési név, a születési hely és idő, az anyja születési neve, az állampolgárság, a személyi igazolvány száma, az állandó lakcím, az értesítési cím, a telefonszám és az e-mail cím. A jelentkezőknek meg kell adniuk a munkahely nevét és címét, valamint a beosztásukat vagy foglalkozásukat. Ezen kívül információt kell szolgáltatniuk az egyetemi végzettségükről, beleértve az egyetemet, az oklevél szakját és minősítését, valamint az oklevél számát és keltét. A nyelvtudásukat is nyilatkozniuk kell, megnevezve az első és második nyelvet, azok szintjét és típusát, továbbá az ezekhez kapcsolódó okleveleket. A táblázat tartalmazza a választott doktori iskola és program nevét, a témavezető nevét és munkahelyét, valamint a választott téma címét. A jelentkezőknek meg kell jelölniük a jelentkezési formát is, például ösztöndíjas helyre, költségtérítéses képzésekre, vagy egyéni képzésre. Végül, a kérdés arra is kitér, hogy pályáztak-e más doktori iskolákba, és meg kell nevezni a másik doktori iskola nevét is.
 
 Büntetőjogi felelősségem tudatában kijelentem, hogy a fenti adatok a valóságnak megfelelnek, és tudomásul veszem, hogy a valótlan adatok közléséből származó hátrányok engem terhelnek.
 
 Eger, 20 ………..
 
-A táblázat nem tartalmaz érdemi adatokat vagy információt, csak egy címke szerepel benne: "a jelentkező aláírása". Nem találhatóak benne dátumok, számok vagy további szöveges megjegyzések, így annak tartalma nem igényel részletesebb elemzést vagy összefoglalást.
+A forrásban szereplő információ alapján a dokumentumban helyet kapott a jelentkező aláírása. További részletes adatokat vagy kontextust nem tartalmaz.
 
 3. melléklet
 
@@ -1006,9 +1006,9 @@ A komplex vizsga értékelése megfelelt/nem megfelelt
 
 Eger, 20
 
-A bizottság elnöke jelen összefoglaló rendelkezésre álló adatai alapján nincsen megadva, mivel a táblázat nem tartalmaz részletes információt. Kérjük, biztosítsa az adatokat az összefoglaló elkészítéséhez.
+A bizottság elnöke adatot a forrásban nem található más információval kiegészítve, jelenleg nem adható meg. Kérjük, biztosítson további részleteket a szükséges összefoglaló elkészítéséhez.
 
-Sajnálom, de a megadott információk alapján nem tudok összefoglalót készíteni, mivel a táblázatból származó adatok hiányosak vagy nem tartalmaznak konkrét információt. Kérlek, adj meg több részletet vagy egy teljes adatlistát.
+A megadott forrásadatok nem tartalmaznak semmilyen konkrét információt a bizottság tagjairól, így nincs elegendő adat a részletes összefoglaló elkészítéséhez. A táblázat egy üres struktúrát mutat, amelyen nem szerepelnek nevek, dátumok vagy egyéb releváns információk, így az elemzés alapjául nem szolgálhatnak.
 
 4. melléklet
 
@@ -1122,11 +1122,11 @@ A Bíráló Bizottság a doktori (PhD) fokozat odaítélését javasolja/nem jav
 
 Eger, 20
 
-Sajnálom, de az adatok alapján nem tudok összefoglalót készíteni. Kérem, adjon meg további információkat a táblázatról vagy más forrásból, amely részletesebb adatokat tartalmaz.
+A bizottság elnöke a megjelölt személy.
 
-Sajnálom, de a táblázatból nem derül ki konkrét információ vagy adat, amit összefoglalhatnék. Ha bármilyen további adat vagy részlet rendelkezésre állna, kérem, ossza meg, hogy segíthessek a feladat megoldásában.
+A megadott információk nem tartalmaznak elegendő adatot a bizottság tagjairól vagy bármilyen más részletről. Kérjük, biztosítson további adatokat, hogy pontos és teljes összefoglalót tudjak készíteni.
 
-Sajnálom, de a megadott információk alapján nem tudok összefoglalót készíteni. Kérem, biztosítson pontos és részletes adatokat a táblázat tartalmáról, hogy segíthessek önnek a megfelelő összefoglaló elkészítésében.
+A megadott adatok alapján a bizottság tagja megnevezése nem áll rendelkezésre, mivel a táblázatban a konkrét tagok nevei és információi nem szerepelnek. A táblázat nem tartalmaz egyéb részleteket, így további információk nem állnak rendelkezésre a bizottság összetételéről.
 
 7. melléklet
 

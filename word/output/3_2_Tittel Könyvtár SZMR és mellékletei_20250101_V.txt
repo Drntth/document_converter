@@ -10,7 +10,7 @@ SZERVEZETI ÉS MŰKÖDÉSI REND
 
 Eger
 
-A könyvtárhasználati szabályzat 2-3. számú melléklete jogszabályi változások és egyéb pontosítások miatt módosult, amit a szenátus 64/2022. (VII.20.) számú határozattal hagyott jóvá. A módosításokat Oszlánczi Krisztina, a könyvtár főigazgatója készítette, míg az ellenőrzést Rákosiné dr. Jakab Éva kabinetvezető végezte el. Az új kiadás dátuma 2024. december 11., amit a 76/2024. (XII.11.) nyilvántartási számon dokumentáltak.
+Oszlánczi Krisztina könyvtár főigazgató készítette, Rákosiné dr. Jakab Éva kabinetvezető ellenőrizte, és a Szenátus 64/2022. (VII.20.) sz. határozatával jóváhagyták. Az első kiadás a 2-3. melléklet szabályzati változásait tartalmazza, amely a könyvtárhasználati szabályzat mellékletek jogszabályi módosításán és egyéb pontosításokon alapul. A kiadás dátuma 2024. december 11. (76/2024. (XII.11.)).
 
 PREAMBULUM
 
@@ -128,7 +128,7 @@ A Könyvtár (Egyetem Tittel Pál Könyvtára) szimbólumai
 
 Könyvtári embléma: Nyitott könyv ábra, felette az intézmény megnevezése (Tittel Pál Könyvtár) egy monitort jelképező keretben, alatta pedig a fenntartó neve (Eszterházy Károly Egyetem).
 
-Ez a kép a "Tittel Pál Könyvtár" logóját ábrázolja, amely az Eszterházy Károly Katolikus Egyetem könyvtárát jelöli.
+A képen egy könyvtár neve látható: "TITTEL PÁL KÖNYVTÁR" és az "ESZTERHÁZY KÁROLY KATOLIKUS EGYESZTEM" szöveg. A dizájn valószínűleg egy nyitott könyv formájában van megjelenítve, zöld háttéren.
 
 Használat szabályozása: Az embléma csak méretarányosan nagyítható vagy kicsinyíthető, alkotóelemei nem változtathatóak. Az embléma a feliratokkal és azok nélkül is megjeleníthető.
 

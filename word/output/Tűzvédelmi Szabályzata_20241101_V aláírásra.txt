@@ -1,4 +1,4 @@
-A képen az Eszterházy Károly Katolikus Egyetem logója látható. A logó közepén egy stilizált épület rajza szerepel, felül az "Eger 1774" felirattal, alul pedig az egyetem neve olvasható.
+A képen az Eszterházy Károly Katolikus Egyetem logója látható, amely Eger városában található. A logó a főépület alakját ábrázolja, és 1774-re utal, mely az egyetem alapításának éve.
 
 T ű z v é d e l m i S z a b á l y z a t a
 
@@ -168,9 +168,9 @@ A tűzoltóság megérkezése után a tűzoltás vezetőjének tájékoztatást 
 
 „Dohányzásra kijelölt hely” feliratot kell elhelyezni!
 
-A képen egy dohányzásra kijelölt helyet jelző tábla látható. A körben egy cigaretta szimbólum van, ami azt jelzi, hogy ezen a helyen a dohányzás megengedett. Több nyelven is fel van tüntetve az információ, és található rajta egy webcím is a leszokást támogató programmal kapcsolatban.
+A képen egy dohányzásra kijelölt helyről szóló táblát láthatunk. A tábla középen egy piros körben áthúzott cigarettát ábrázol, ami jelzi, hogy itt tilos a dohányzás, valamint információkat tartalmaz a dohányzási szabályokról.
 
-Ez egy "Tilos a dohányzás" tábla. A képen egy áthúzott cigaretta látható, ami a dohányzás tilalmát jelzi. Több nyelven is fel van tüntetve, hogy tilos a dohányzás, és van rajta információ a dohányzásról való leszokáshoz nyújtott segítségről is.
+A képen egy „TILOS A DOHÁNYZÁS” feliratú tábla látható, amely több nyelven is figyelmeztet a dohányzás tilalmára. A tábla közepén egy cigaretta szimbóluma található, amelyet áthúz egy piros kör.
 
 3.4 Raktározás, tárolás általános tűzvédelmi szabályai
 
@@ -288,7 +288,7 @@ d. Tűz-, vagy robbanásveszélyes folyadékokat hő hatásának vagy nyílt lá
 
 e. Az egyes intézményekben jellemzően előforduló tűzveszélyes folyadékok:
 
-A táblázat adatai alapján öt különböző tűzveszélyes folyadékot és azok felhasználási módjait sorolták fel. Az elsőként említett anyag a hígító, amelyet festéshez és karbantartási munkákhoz használnak. A második a festék, amely szintén festéshez és karbantartási munkákhoz kerül felhasználásra. A harmadik tétel a kémiai szaktantárgyi és laboratóriumi anyagok, melyeket kémia oktatás és kísérletek során alkalmaznak. Negyedikként a benzin szerepel, amelyet kisgépek, például fűnyírók üzemanyagaként használnak. Az ötödik folyadék egy minimum 70% alkoholtartalommal bíró fertőtlenítőszer, amit kéz- és felületfertőtlenítésre alkalmaznak.
+Az adatok alapján a következő tűzveszélyes folyadékok használati módjai figyelhetők meg. Az első folyadék a hígító, amelyet festés és karbantartási munkák során alkalmaznak. A második a festék, amely szintén festés és karbantartási feladatokhoz szükséges. A harmadik pozícióban kémiai szaktantárgyi, laboratóriumi anyagok szerepelnek, amelyeket kémia oktatás és kísérletek során használnak. A negyedik helyen a benzin található, amely kisgépek, például fűnyírók üzemanyagaként van jelen. Végül, az ötödik folyadék a minimum 70% alkoholtartalommal bíró fertőtlenítőszer, amelyet kéz- és felületfertőtlenítésre használnak.
 
 15) Napelemek
 
@@ -304,7 +304,7 @@ e. Napelemes tetőfedés alkalmazása esetén a tetőfedésnek a héjalásokra v
 
 f. A napelem jelenlétét az épület bejáratánál jelezni kell.
 
-A képen egy figyelmeztető tábla látható, amely napenergia rendszerekre figyelmeztet. A tábla piktogramja egy napelemmel és egy nap szimbólummal ábrázolt veszélyt jelöl. Az alsó rész magyar nyelvű szövege az épület napenergia rendszerének működésére hívja fel a figyelmet, és figyelmeztet az aktív vezetékekre.
+A képen egy figyelmeztető tábla látható, amely a napenergia hasznosításával kapcsolatos. A tábla valószínűleg arra figyelmeztet, hogy az épületben napenergiás rendszer található, és hogy az aktív vezetékek a PV inverterből származnak. A tábla célja a biztonságos bánásmód biztosítása a kiválasztott területen.
 
 16) Az anyagok tűzveszélyességi osztályba sorolása.
 
@@ -412,7 +412,7 @@ c) a CLP rendelet (1272/2008/EK európai parlamenti és tanácsi rendelet) szeri
 
 Az Egyetem (Eszterházy Károly Katolikus Egyetem) és az általa fenntartott intézményben, létesítményekben előforduló jellemző anyagok az osztályozás tükrében:
 
-A tűzveszélyességi osztályozás három kategóriába sorolja az anyagokat. Az első kategóriába, a robbanásveszélyes anyagok közé tartoznak az éghető gázok, éghető folyadékok, éghető szilárd anyagok, különböző laboratóriumi vegyszerek, üzemanyag (benzin), hígító, festék, valamint legalább 70% alkoholtartalommal bíró fertőtlenítőszerek. A második kategória a mérsékelten tűzveszélyes anyagokat foglalja magában, ide tartoznak a fa bútorok, berendezési tárgyak és dekorációk, papírból készült dokumentumok, könyvek és térképek, textil épülettextíliák, műanyag berendezési tárgyak és eszközök, elektromos berendezések, PVC burkolatok és zománcfesték. A harmadik kategóriába a nem tűzveszélyes anyagok sorolhatók, melyek közé a fémek, hidegburkolatok, valamint a kerámia eszközök és berendezési tárgyak tartoznak.
+A tűzveszélyességi osztályozás a következőképpen alakul: Az első osztályba tartoznak a robbanásveszélyes anyagok, ide tartoznak az éghető gázok, éghető folyadékok, éghető szilárd anyagok, különböző laboratóriumi vegyszerek, üzemanyagok (például benzin), hígítók, festékek és legalább 70% alkoholtartalmú fertőtlenítőszerek. A második osztály mérsékelten tűzveszélyes anyagokat sorol fel, mint például a fa (bútorok, berendezési tárgyak, dekorációk), papír (dokumentumok, könyvek, térképek), textil (épülettextília), műanyag (berendezési tárgyak, eszközök), elektromos berendezések, PVC burkolatok és zománcfesték. A harmadik osztály nem tűzveszélyes anyagokat tartalmaz, amelyek közé tartoznak a fémek, hidegburkolatok, kerámia eszközök és berendezési tárgyak.
 
 4 Kiürítés
 
@@ -658,13 +658,13 @@ Egyedi előírások: …………………………………………………�
 
 A 259/2011. (XII. 7.) Korm. rendelet alapján
 
-A tűzvédelmi szabályszegések kapcsán kiszabható bírságok különböző kategóriákba sorolhatók, melyek bírsághatárai jelentős eltéréseket mutatnak. A tűzvédelmi szabály megszegése, amennyiben az tüzet vagy robbanást idézett elő, legalább tízezer forint bírsággal jár, de életveszélyes beavatkozást igénylő esetekben, amikor a tűzoltóság beavatkozása is szükséges, a maximális bírság hárommillió forint lehet. Olyan szabályszegések esetén, amelyek közvetlen tűz- vagy robbanásveszélyt idéznek elő, a bírság minimum húszezer és maximum egymillió forint között mozog. Az eltérő helyzetek, mint például a tömegtartózkodásra szolgáló helyiségek kiürítését biztosító nyílászárók nem megfelelő kezelése, a veszélyes tárolás, vagy a tűzoltó berendezés felügyeletének hiánya szintén komoly bírságokat vonhat maga után, amelyek megközelíthetik az egymillió forintot, és bizonyos esetekben akár a hárommillió forintot is elérhetik. Az általános tűzvédelemmel kapcsolatos hiányosságok, mint a tűzoltókészülék karbantartásának elmulasztása vagy a tűzvédelmi dokumentáció jogosulatlan készítése, szintén szigorú pénzbírságokkal járnak, melyek maximuma a legtöbb esetben magas összegekre rúg. Ezek a bírságok fontos eszközei a tűzvédelmi szabályszegések megelőzésének és kezelésének.
+A tűzvédelmi szabályszegésekért kiszabható bírságok mértéke változatos, a legsúlyosabb esetekben, mint például a tűz vagy robbanás előidézése, a bírság legkisebb mértéke 10 000 Ft, míg a legnagyobb mértéke 1 000 000 Ft lehet. Ha a tűzoltóság beavatkozása szükséges, a minimális bírság 20 000 Ft, a maximális pedig 3 000 000 Ft. A kiürítésre szolgáló nyílászárók engedély nélküli zárása 40 000 Ft-tól kezdődően akár 1 500 000 Ft-os bírságot is vonhat maga után. Számos egyéb szabályszegés esetén, mint a tűzoltókészülékek karbantartásának hiánya vagy tűzjelző és tűzoltó berendezések működésének akadályozása, 10 000 Ft-tól akár 2 000 000 Ft-ig terjedő bírságok szabhatóak. Vannak olyan szabályszegések is, amelyek a tűzvédelemre vonatkozó jogszabályok megszegéséhez kapcsolódnak, például 50 000 Ft-tól 1 000 000 Ft-ig. A bírságok nagysága a szabályszegés súlyosságától és körülményeitől függ.
 
 5.sz. melléklet
 
 A 9/2015. (III. 25.) BM rendelettel előírt tűzvédelmi képesítés igazolása
 
-Ez egy hivatalos dokumentum, egy bizonyítvány. Tartalmazza a tanuló nevét, személyes adatait, az oktatási intézmény nevét, a tanulmányi időszakot, valamint a kiállítás dátumát és aláírásokat. Az oklevél tipikus elemeit örökíti, mint például pecsétek és az intézmény logója.
+A képen egy hivatalos irat látható, amely valószínűleg egy okmány, például bizonyítvány vagy igazolvány. Az irat tartalmazhat különféle adatokat, például nevét, azonosító számot, és hivatalos pecséteket vagy aláírásokat.
 
 6.sz. melléklet
 
@@ -908,4 +908,4 @@ Műterem befogadó képessége: 70 fő
 
 Tűzvédelmi szakfelszerelések ellenőrzési, karbantartási, felülvizsgálati ciklusidői
 
-A táblázat a különböző tűzvédelmi berendezésekkel kapcsolatos tevékenységek ciklusidejét és dokumentálási követelményeit részletezi. Az üzemeltetői ellenőrzés ciklusideje a tűzoltó készülékek esetében három hónap, míg a fali tűzcsapok, vízforrások, nyomásfokozó szivattyúk és száraz oltóvízvezetékek esetében hat hónap. A beépített tűzjelző berendezéseknél a ciklusidő egy nap, egy hónap és három hónap is lehet, míg a biztonsági világítás esetében három hónap. Pánikzárak és vészkijárati rendszerek esetében a ciklusidőt rendezvények előtt, de legalább három hónapként határozták meg. A tűzgátló lezárásoknál egy hónapos ciklusidőt alkalmaznak, míg a hő- és füst elleni védelem esetében három hónapos a ciklusidő. Az időszakos felülvizsgálatnál nincs követelmény a tűzoltó készülékekre, viszont a fali tűzcsapok és a biztonsági világítás esetében az időszakos felülvizsgálat 12 hónap, míg a tűzgátló lezárásoknál hat hónap. A karbantartási ciklusidők gyakran egybeesnek az időszakos felülvizsgálatokkal, de például a tűzoltó készülékek esetében hat hónap, 12 hónap, öt év és tíz év is lehet. Minden esetben a dokumentálási forma a tűzvédelmi üzemeltetési napló.
+Az elemzett adatok szerint a tűzvédelmi rendszerek üzemeltetési és ellenőrzési követelményei az alábbiakat tartalmazzák. A tűzoltó készülékek esetében az üzemeltetői ellenőrzés intervalluma 3 hónap (+ 1 hét), míg a karbantartás 6 hónap (+ 1 hónap), 12 hónap (+ 1 hónap), 5 év (+ 2 hónap) és 10 év (+ 2 hónap) periódusok szerint történik. A fali tűzcsapok és hasonló vízforrások hat hónap (+ 1 hét) üzemeltetői ellenőrzést igényelnek, míg az időszakos felülvizsgálat 12 hónap (+ 1 hét) után esedékes. Az beépített tűzjelző berendezéseknek naponta, havonta és 3 havonta (+ 1 hét) szükséges az üzemeltetői ellenőrzése, a karbantartási időszakok pedig 6 hónap (+ 1 hét) és 12 hónap (+ 1 hét) között változnak. Biztonsági világítás esetében az üzemeltetői ellenőrzést három havonta, a karbantartást pedig 12 hónap (+ 1 hét) alatt végzik. A pánikzárak és vészkijárati zárak ellenőrzése minden rendezvény előtt, de legalább 3 hónap (+ 1 hét) gyakorisággal szükséges. A tűzgátló lezárások ellenőrzése is havi rendszerességgel történik, míg a hő és füst elleni védelem megoldásai 3 hónap (+ 1 hét) ellenőrzést igényelnek, a karbantartással egyidejűleg. A dokumentációs kötelezettség az összes említett műszaki megoldás esetében a tűzvédelmi üzemeltetési naplóban történik.
