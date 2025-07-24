@@ -26,6 +26,23 @@ def parse_args() -> argparse.Namespace:
         help="Bemeneti mappa elérési útja, amely DOCX vagy PDF fájlokat tartalmaz",
     )
     parser.add_argument(
+        "-s",
+        "--steps",
+        type=int,
+        choices=range(1, 8),
+        default=7,
+        help=(
+            "Futtatandó lépések:\n"
+            "  1: Előfeldolgozás (preprocessing: fejléc, lábléc, tartalomjegyzék, üres sorok/oldalak eltávolítása)\n"
+            "  2: Utófeldolgozás (postprocessing: rövidítések, lábjegyzetek)\n"
+            "  3: Dokumentum (PDF/DOCX) konvertálása Markdown formátumba (Docling)\n"
+            "  4: Markdown fájl feldolgozása JSON formátumba (Unstructured)\n"
+            "  5: JSON tartalom gazdagítása táblázat- és képösszefoglalókkal (OpenAI)\n"
+            "  6: Gazdagított JSON exportálása TXT fájlba\n"
+            "  7: Minden lépés egymás után"
+        ),
+    )
+    parser.add_argument(
         "-rh",
         "--remove-headers",
         action="store_true",
