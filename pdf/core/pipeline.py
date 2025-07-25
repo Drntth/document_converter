@@ -125,7 +125,7 @@ def process_single_file(source_file: Path, steps: int):
                     Path(config.settings.OUTPUT_IMAGES) / source_file.stem
                 )
                 extract_images_from_pdf(source_file, images_dir)
-                print("Képek kimentése befejeződött!")
+                # print("Képek kimentése befejeződött!")
         except:
             # Csak referencia gyanánt van itt! Majd módosításra kerül.
             # logger.error(
