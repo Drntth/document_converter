@@ -6,6 +6,7 @@ import os
 import hashlib
 
 # REFACTOR: A kevésbé értelmezhető részek kiszervezése külön segédfüggvényekbe.
+# BUG: Szövegek visszaírásakor, az ö, ő, ü, ű betűk eltűnnek a szövegből
 def extract_images_from_pdf(source_file_pdf: Path, output_dir: Path) -> int:
     """
     Képek kimentése PDF fájlokból
