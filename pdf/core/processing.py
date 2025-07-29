@@ -24,14 +24,9 @@ import fitz
 #     remove_abbreviation_phrases,
 #     remove_footnote_references,
 # )
-# from processing.preprocessor import (
-#     remove_empty_pages,
-#     remove_toc_by_field,
-#     remove_toc_by_paragraphs,
-#     remove_toc_by_table,
-#     remove_toc_by_text,
-#     remove_toc_by_xml,
-# )
+from processing.preprocessor import (
+    remove_page_numbers
+)
 # from services.file_service import save_abbreviations, validate_document, write_json
 # from unstructured.partition.auto import partition
 
@@ -61,25 +56,39 @@ def preprocess_pdf(
     footers_removed = False
 
     pdf_file = fitz.open(source_file)
-
+    print("preprocess_pdf függvény eleje")
     if remove_headers:
+        print("Fejlécek eltávolítása...")
         for page_index in range(0, len(pdf_file)):
             page = pdf_file.load_page(page_index)
             page_dict = page.get_text('dict')
 
             blocks_on_page = page_dict.get('blocks')
             first_block_on_page = blocks_on_page[0]
+            # print(f"{page_index+1} - {first_block_on_page}")
             first_bbox = first_block_on_page['bbox']
             
             first_x0, first_y0, first_x1, first_y1 = first_bbox
-            if first_x0 <= 72 and first_y0 <= 36:
+            if first_x0 <= 72 and first_y0 <= 38:
                 page.add_redact_annot(first_bbox, text=None)
+                print(f"Fejléc megjelölve a(z) {page_index+1}.oldalon")
             
             page.apply_redactions()
+            print(f"Fejléc eltávolítva a(z) {page_index+1}.oldalon")
 
         headers_removed = True
-        # print("Fejlécek eltávolítva")
+        print("Fejlécek eltávolítva")
+    
+    if remove_footers:
+        print("Láblécek eltávolítása...")
+        pdf_file = remove_page_numbers(pdf_document=pdf_file)
 
-    # if remove_footers:
+        footers_removed = True
+        print("Láblécek eltávolítva")
+
+    pdf_file.saveIncr()
+    pdf_file.close()
+
+    return source_file
         
 

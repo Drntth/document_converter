@@ -105,8 +105,8 @@ def main() -> None:
                 args.steps,
                 is_directory=False,
                 # TODO: PDF fájlok fej- és lábléceit eltávolító paraméterek alkalmazása
-                # remove_headers=args.remove_headers,
-                # remove_footers=args.remove_footers,
+                remove_headers=args.remove_headers,
+                remove_footers=args.remove_footers,
                 # remove_toc=args.remove_toc,
                 # remove_empty=args.remove_empty,
                 # abbreviation_strategy=args.abbreviation_strategy,

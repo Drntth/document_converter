@@ -3,12 +3,13 @@ import shutil
 import time
 from pathlib import Path
 from typing import Union
+from tqdm import tqdm
 
 import config.settings
 from services.file_service import ensure_directories
-from tqdm import tqdm
-
+from core.processing import preprocess_pdf
 from utils.image_extract import extract_images_from_pdf
+
 
 # NOTE: Word projektből átemelve
 def process_pipeline(
@@ -18,8 +19,8 @@ def process_pipeline(
     # TODO: PDF fájlokkal működő fej- és lábléc eltávolítására alkalmas paraméterek definiálása
     # Ezek majd pdf fájlokkal kompatibilis paraméterek lesznek,
     # Egyelőre itt maradnak kikommentezve referencia gyanánt
-    # remove_headers: bool = True,
-    # remove_footers: bool = True,
+    remove_headers: bool = True,
+    remove_footers: bool = True,
     # remove_toc: bool = True,
     # remove_empty: bool = True,
     # abbreviation_strategy: str = "inline",
@@ -84,8 +85,8 @@ def process_pipeline(
             input_path,
             step_count,
             # TODO: PDF fájlok fej- és lábléceit eltávolító paraméterek alkalmazása
-            # remove_headers=remove_headers,
-            # remove_footers=remove_footers,
+            remove_headers=remove_headers,
+            remove_footers=remove_footers,
             # remove_toc=remove_toc,
             # remove_empty=remove_empty,
             # abbreviation_strategy=abbreviation_strategy,
@@ -93,7 +94,7 @@ def process_pipeline(
             # process_images_with_ai=process_images_with_ai,
         )
 
-def process_single_file(source_file: Path, steps: int):
+def process_single_file(source_file: Path, steps: int, remove_headers: bool, remove_footers: bool):
     is_pdf: bool = source_file.suffix.lower() == ".pdf"
     paths = config.settings.get_paths_for_file(str(source_file))
     total_steps: int = min(steps, 7) if steps != 7 else 6
@@ -125,7 +126,16 @@ def process_single_file(source_file: Path, steps: int):
                     Path(config.settings.OUTPUT_IMAGES) / source_file.stem
                 )
                 extract_images_from_pdf(source_file, images_dir)
-                # print("Képek kimentése befejeződött!")
+                print("Képek kimentése befejeződött!")
+
+            if steps >= 1 or steps == 7:
+                start_time = time.time()
+                processed_file = preprocess_pdf(
+                    source_file=source_file, 
+                    remove_headers=remove_headers,
+                    remove_footers=remove_footers
+                )
+                progress_bar.update(1)
         except:
             # Csak referencia gyanánt van itt! Majd módosításra kerül.
             # logger.error(
