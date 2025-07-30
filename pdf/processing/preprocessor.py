@@ -38,7 +38,63 @@ Egy PDF oldal bal felső sarkának koordinátái tuple-ben megadva.\n
 Olyan esetekre, amikor egy szöveget körülhatároló tégalap objektumot (Rect) kell keresni.
 """
 
-def remove_page_numbers(pdf_document: Document) -> Document:
+EKKE_HEADER_PATTERN = "Eszterházy Károly Katolikus Egyetem"
+"""
+Olyan dokumentumoknál, ahol valamilyen oknál fogva egy oldalon nem az fejléc az első elem.
+"""
+
+def remove_headers_from_document(pdf_document: Document) -> Document:
+    """
+    Fejlécek eltávolítása az oldalakról
+
+    Args:
+        pdf_document (Document): A PDF dokumentum objektum
+    
+    Returns:
+        Document: A fejlécektől megtisztított PDF dokumentum objektuma
+    """
+
+    for page_index in range(0, len(pdf_document)):
+        page = pdf_document.load_page(page_index)
+        page_dict = page.get_text('dict')
+
+        page_blocks = page.get_text('blocks')
+        header_rect_candidates = []
+
+        for block in page_blocks:
+            text_in_the_block = block[4].lstrip(" \n \n").rstrip(" \n \n")
+
+            if EKKE_HEADER_PATTERN in text_in_the_block:
+                x0, y0, x1, y1, *_ = block
+                header_rect_candidates.append((x0, y0, x1, y1))
+
+        blocks_on_page_dict = page_dict.get('blocks')
+        first_block_on_page = blocks_on_page_dict[0]
+        first_bbox = first_block_on_page['bbox']
+        
+        header_rect_candidates.append(first_bbox)
+
+        for header_candidate in header_rect_candidates:
+            header_x0, header_y0, header_x1, header_y1 = header_candidate
+
+            if header_x0 <= 72 and header_y0 <= 38:
+                page.add_redact_annot(header_candidate, text=None)
+        
+        page.apply_redactions()
+        print(f"Fejléc eltávolítva a(z) {page_index+1}.oldalon")
+    
+    return pdf_document 
+
+def remove_page_numbers_from_document(pdf_document: Document) -> Document:
+    """
+    Oldalszámok eltávolítása
+
+    Args:
+        pdf_document (Document): A PDF dokumentum objektum
+    
+    Returns:
+        Document: Az oldalszámoktól megtisztított PDF dokumentum objektuma
+    """
 
     print("remove_page_numbers függvény eleje")
     for page_index in range(0, len(pdf_document)):
