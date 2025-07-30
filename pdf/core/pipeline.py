@@ -72,8 +72,8 @@ def process_pipeline(
                 file_path,
                 step_count,
                 # TODO: PDF fájlok fej- és lábléceit eltávolító paraméterek alkalmazása
-                # remove_headers=remove_headers,
-                # remove_footers=remove_footers,
+                remove_headers=remove_headers,
+                remove_footers=remove_footers,
                 # remove_toc=remove_toc,
                 # remove_empty=remove_empty,
                 # abbreviation_strategy=abbreviation_strategy,
